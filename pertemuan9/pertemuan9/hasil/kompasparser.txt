@@ -1,0 +1,2292 @@
+<html lang="id" class=" js csstransitions"><head>
+    <meta name="msvalidate.01" content="94D7C64651DB01DACCF13907E3748127">
+    
+<script type="text/javascript" async="" src="https://sb.scorecardresearch.com/c2/8077308/cs.js" nonce="IOvmxAasolBKwB_qzaJVMg"></script><script src="https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl_page_level_ads.js" nonce="IOvmxAasolBKwB_qzaJVMg"></script><script type="text/javascript" async="" src="//static.chartbeat.com/js/chartbeat.js"></script><script type="text/javascript" async="" src="https://unpkg.com/web-vitals/dist/web-vitals.iife.js" nonce="IOvmxAasolBKwB_qzaJVMg"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-9TZYVFXGRP&amp;cx=c&amp;gtm=4e5c92h1" nonce="IOvmxAasolBKwB_qzaJVMg"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-7KGEC8EBBM&amp;cx=c&amp;gtm=4e5c92h1" nonce="IOvmxAasolBKwB_qzaJVMg"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-77DJNQ0227&amp;cx=c&amp;gtm=4e5c92h1" nonce="IOvmxAasolBKwB_qzaJVMg"></script><script src="https://connect.facebook.net/signals/config/423063207362401?v=2.9.246&amp;r=stable&amp;domain=tekno.kompas.com&amp;hme=50bab31bbf5151cee3dcfa74ffeee9e761f22c9be18302d6c4b433b0d72b4e00&amp;ex_m=94%2C156%2C134%2C20%2C67%2C68%2C127%2C63%2C43%2C128%2C72%2C62%2C10%2C141%2C80%2C15%2C93%2C28%2C122%2C115%2C70%2C73%2C121%2C138%2C102%2C143%2C7%2C3%2C4%2C6%2C5%2C2%2C81%2C91%2C144%2C223%2C167%2C57%2C225%2C226%2C50%2C182%2C27%2C69%2C231%2C230%2C170%2C30%2C56%2C9%2C59%2C87%2C88%2C89%2C95%2C118%2C29%2C26%2C120%2C117%2C116%2C135%2C71%2C137%2C136%2C45%2C55%2C111%2C14%2C140%2C40%2C212%2C214%2C177%2C23%2C24%2C25%2C17%2C18%2C39%2C35%2C37%2C36%2C76%2C82%2C86%2C100%2C126%2C129%2C41%2C101%2C21%2C19%2C107%2C64%2C33%2C131%2C130%2C132%2C123%2C22%2C32%2C54%2C99%2C139%2C65%2C16%2C133%2C104%2C31%2C192%2C163%2C283%2C210%2C154%2C195%2C188%2C164%2C97%2C119%2C75%2C109%2C49%2C44%2C103%2C42%2C108%2C114%2C53%2C60%2C113%2C48%2C51%2C47%2C90%2C142%2C0%2C112%2C13%2C110%2C11%2C1%2C52%2C83%2C58%2C61%2C106%2C79%2C78%2C145%2C146%2C84%2C85%2C8%2C92%2C46%2C124%2C77%2C74%2C66%2C105%2C96%2C38%2C125%2C34%2C98%2C12%2C147" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4"></script><script>
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+    "title": "Berita Gadget Terbaru Hari ini",
+    "description": "Berita Gadget Hari Ini, Kabar Berita Terkini Produk Gadget Terbaru Meliputi Produk Smartphone, Tablet, Laptop, Komputer, Handphone di Indonesia dan Dunia",
+    "keywords": "Berita Gadget, Review Produk, Gadget Terbaru, Smartphone, Tablet, Laptop, Komputer, Handphone, Vendor Ponsel, Kompas ",
+    "content_category": "Tekno",
+    "content_subcategory": "Gadget",
+    "canonical": "https:\/\/tekno.kompas.com\/gadget",
+    "url": "https:\/\/tekno.kompas.com\/gadget"
+});</script>   
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PT7PC4');</script>
+<!-- End Google Tag Manager -->
+<title>Berita Gadget Terbaru Hari ini</title>
+<link href="//securepubads.g.doubleclick.net" rel="dns-prefetch">
+<link href="//asset.kompas.com" rel="dns-prefetch">
+<link href="//adsimg.kompas.com" rel="dns-prefetch">
+<link href="//tpc.googlesyndication.com" rel="dns-prefetch">
+<link href="//cm.g.doubleclick.net" rel="dns-prefetch">
+<link href="//apis.kompas.com" rel="dns-prefetch"><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width">
+<meta name="description" content="Berita Gadget Hari Ini, Kabar Berita Terkini Produk Gadget Terbaru Meliputi Produk Smartphone, Tablet, Laptop, Komputer, Handphone di Indonesia dan Dunia">
+<meta name="keywords" content="Berita Gadget, Review Produk, Gadget Terbaru, Smartphone, Tablet, Laptop, Komputer, Handphone, Vendor Ponsel, Kompas ">
+<meta name="author" content="Kompas Cyber Media">
+
+<meta name="googlebot-news" content="index, follow">
+<meta name="googlebot" content="index, follow">
+<meta name="robots" content="index, follow">
+
+<meta name="language" content="id">
+<meta name="geo.country" content="id">
+<meta http-equiv="content-language" content="In-Id">
+<meta name="geo.placename" content="Indonesia">
+
+<!-- S:fb meta -->
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://asset.kompas.com/data/2019/kompascom/banner-jmd-3.jpg">
+<meta property="og:title" content="Berita Gadget Terbaru Hari ini">
+<meta property="og:description" content="Berita Gadget Hari Ini, Kabar Berita Terkini Produk Gadget Terbaru Meliputi Produk Smartphone, Tablet, Laptop, Komputer, Handphone di Indonesia dan Dunia">
+<meta property="og:url" content="https://tekno.kompas.com/gadget">
+<meta property="og:site_name" content="KOMPAS.com">
+<meta property="fb:app_id" content="324557847592228">
+<!-- e:fb meta -->
+
+<!-- S:tweeter card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@kompascom">
+<meta name="twitter:creator" content="@kompascom">
+<meta name="twitter:title" content="Berita Gadget Terbaru Hari ini">
+<meta name="twitter:description" content="Berita Gadget Hari Ini, Kabar Berita Terkini Produk Gadget Terbaru Meliputi Produk Smartphone, Tablet, Laptop, Komputer, Handphone di Indonesia dan Dunia">
+<meta name="twitter:image" content="https://asset.kompas.com/data/2019/kompascom/banner-jmd-3.jpg">
+<!-- E:tweeter card -->
+
+<meta name="content_category" content="Tekno">
+<meta name="content_subcategory" content="Gadget">
+<meta name="content_location" content="">
+<meta name="content_author_id" content="">
+<meta name="content_author" content="">
+<meta name="content_editor_id" content="">
+<meta name="content_editor" content="">
+<meta name="content_lipsus" content="">
+<meta name="content_lipsus_id" content="">
+<meta name="content_sensi" content="">
+<meta name="content_type" content="">
+<meta name="content_PublishedDate" content="">
+<meta property="article:published_time" content="">
+<meta name="content_source" content="">
+<meta name="content_tag" content="">
+<meta name="content_tags" content="">
+<meta name="content_total_words" content="">
+<meta name="subscription" content="False">
+<meta name="lestari_sdgs" content="">
+<meta name="content_total_pages" content="">
+<meta name="content_current_page" content="">
+
+
+<link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
+
+
+
+
+<link rel="canonical" href="https://tekno.kompas.com/gadget">
+<link rel="dns-prefetch" href="twitter.com">
+<link rel="shortcut icon" href="https://asset.kompas.com/data/2017/wp/images/favicon2017.ico">
+<link rel="stylesheet" href="https://asset.kompas.com/data/2025/12/09/kompascom/desktop/css/kcm-d-foundation.min.css" type="text/css"> 
+
+    <link rel="stylesheet" href="https://asset.kompas.com/data/2025/12/08/kompascom/desktop/css/kcm2017-article.min.css" type="text/css">
+    <link rel="stylesheet" href="https://asset.kompas.com/data/2025/03/05/kompascom/desktop/css/kcm2017-iconpack-article.min.css" type="text/css">
+ 
+
+<link rel="stylesheet" href="https://asset.kompas.com/data/2025/09/22/sso/css/kgm-verify.min.css" type="text/css">
+
+ 
+<link rel="preload" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:200,300,700|Roboto:300,300i,400,400i,500,700,700i" as="style">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:200,300,700|Roboto:300,300i,400,400i,500,700,700i">
+<link rel="preconnect" href="https://scripts.jixie.media">
+
+<script src="https://asset.kompas.com/data/2017/wp/js/jquery-1.12.0.min.js"></script>
+<script src="https://asset.kompas.com/data/2017/wp/js/modernizr.custom.js"></script>
+
+<link rel="preconnect" href="https://scripts.jixie.media">
+
+<script type="text/javascript">
+window.jixie_o = {
+	accountid: "9262bf2590d558736cac4fff7978fcb1",
+	partner_cookie: 'kmps_usrid',
+	external_ids: ['tdid','tdid2','ifo'],
+	sha256mail_cookie:'usermail',
+	ad_blocker: true,
+	logbids: true,
+	userprofile: true,
+	sha256ph_cookie:'kmps_uphn',
+};
+</script>
+<script async="" src="https://scripts.jixie.media/jxpublisher_3_1.min.js"></script>
+
+	<script type="text/javascript">
+		window.jixie_p = window.jixie_p || [];
+		window.jixie_p.push({
+			action: "viewsection",
+			category: "Tekno"
+		});
+	</script>
+
+  
+
+<!-- Start Ad Blocking Recovery Message -->
+<script async="" src="https://fundingchoicesmessages.google.com/i/pub-9012468469771973?ers=1" nonce="IOvmxAasolBKwB_qzaJVMg"></script><script nonce="IOvmxAasolBKwB_qzaJVMg">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+<!-- Endof Ad Blocking Recovery Message --><!-- Start: GPT Async -->
+
+<script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<!--jixie prebid tracker start-->
+<script type="text/javascript">
+window.pbjs=window.pbjs||{},pbjs.que=pbjs.que||[],pbjs.que.push(function(){window._jxbidsq=window._jxbidsq||[],pbjs.onEvent("auctionInit",function(n){_jxbidsq.push(["auctionInit",n])}),pbjs.onEvent("auctionEnd",function(n){_jxbidsq.push(["auctionEnd",n])}),pbjs.onEvent("bidWon",function(n){_jxbidsq.push(["bidWon",n])}),pbjs.onEvent("bidTimeout",function(n){_jxbidsq.push(["bidTimeout",n])}),pbjs.onEvent("bidRequested",function(n){_jxbidsq.push(["bidRequested",n])}),pbjs.onEvent("setTargeting",function(n){_jxbidsq.push(["setTargeting",n])}),pbjs.onEvent("bidResponse",function(n){_jxbidsq.push(["bidResponse",n])})}),window.googletag=window.googletag||{cmd:[]},googletag.cmd.push(function(){googletag.pubads().addEventListener("slotRenderEnded",function(n){_jxbidsq.push(["slotRenderEnded",n])}),googletag.pubads().addEventListener("impressionViewable",function(n){_jxbidsq.push(["impressionViewable",n])})});
+</script>
+<!--jixie prebid tracker end-->
+<script async="" src="https://adsimg.kompas.com/html5/prebid/kompas/prebid9.20.0-20122024.js"></script>
+<script type="text/javascript">
+function getCookieUid(cname){var name=cname+"=";var decodedCookie=decodeURIComponent(document.cookie);var ca=decodedCookie.split(";");for(var i=0;i<ca.length;i++){var c=ca[i];while(c.charAt(0)==" "){c=c.substring(1);} if(c.indexOf(name)==0){return c.substring(name.length,c.length);}} return"";}
+var uuid__=getCookieUid("_jxtdid");
+window.getUid2AdvertisingToken = async () => {
+    var id;
+    if (typeof window.jxGetUid2 == 'function') {
+        id = await window.jxGetUid2();
+    } else {
+        id = getCookieUid('__uid2_advertising_token', null);
+    }
+    return id;
+}
+
+var PREBID_TIMEOUT=2e3,FAILSAFE_TIMEOUT=3e3,HB_TIMEOUT=1e3,adUnits=[{code:"div-gpt-ad-Top_1-1",ortb2Imp:{ext:{gpid:"1000008-EIftKYAWdx",data:{pbadslot:"1000008-EIftKYAWdx"}}},mediaTypes:{banner:{sizes:[[728,90],[970,90],[970,250]]}},bids:[{bidder:"kargo",params:{placementId:"_kGDB9vTtyF"}},{bidder:"openx",params:{unit:"540782269",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"ix",params:{siteId:449983,size:[728,90]}},{bidder:"ix",params:{siteId:449983,size:[970,90]}},{bidder:"ix",params:{siteId:449983,size:[970,250]}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"363578",pageId:"1293724",formatId:"96602",domain:"https://prg8.smartadserver.com"}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"697373",pageId:"2059805",formatId:"141327",domain:"https://prg8.smartadserver.com"}},{bidder:"jixie",params:{unit:"1000008-EIftKYAWdx"}},{bidder:"teads",params:{placementId:165951,pageId:151712}},{bidder:"triplelift",params:{inventoryCode:"kg_kompas_desktop_970x250"}},{bidder:"rubicon",params:{accountId:11834,siteId:434086,zoneId:2484332}},{bidder:"gumgum",params:{zone:"o4idpqq7",slot:986382}},{bidder:"gumgum",params:{zone:"o4idpqq7",slot:986383}},{bidder:"gumgum",params:{zone:"o4idpqq7",slot:986384}},{bidder:"pstudio",params:{pubid:"9e680c92-bdf1-41b0-a7f7-281d394574df",adtagid:"57e032c6-38f9-40b0-98c5-e31378a7bd88"}}]},{code:"div-gpt-ad-Giant",ortb2Imp:{ext:{gpid:"1000008-eLIsfXaJKT",data:{pbadslot:"1000008-eLIsfXaJKT"}}},mediaTypes:{banner:{sizes:[[300,600],[300,250]]},video:{context:"outstream",playerSize:[300,250],api:[1,2],protocols:[2,3,5,6],minduration:5,maxduration:30,mimes:["video/mp4","application/javascript"],placement:2,linearity:1,delivery:[1,2],plcmt:4}},bids:[{bidder:"kargo",params:{placementId:"_blRlCURcHY"}},{bidder:"openx",params:{unit:"540782269",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"ix",params:{siteId:449983,size:[300,600]}},{bidder:"triplelift",params:{inventoryCode:"kg_kompas_desktop_article_imu_1"}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"363578",pageId:"1293724",formatId:"93799",domain:"https://prg8.smartadserver.com"}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"697373",pageId:"2059805",formatId:"141327",domain:"https://prg8.smartadserver.com"}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"697373",pageId:"2059805",formatId:"90012",domain:"https://prg8.smartadserver.com"}},{bidder:"jixie",params:{unit:"1000008-eLIsfXaJKT"}},{bidder:"teads",params:{placementId:165951,pageId:151712}},{bidder:"rubicon",params:{accountId:11834,siteId:434086,zoneId:2484334}},{bidder:"rubicon",params:{accountId:11834,siteId:564588,zoneId:3570184}},{bidder:"gumgum",params:{zone:"o4idpqq8",slot:986385}},{bidder:"pstudio",params:{pubid:"9e680c92-bdf1-41b0-a7f7-281d394574df",adtagid:"7b9642cc-1770-402b-a101-9d8996fe7724"}}]},{code:"div-gpt-ad-Right_3",ortb2Imp:{ext:{gpid:"1000008-xcBkzfm9sk",data:{pbadslot:"1000008-xcBkzfm9sk"}}},mediaTypes:{banner:{sizes:[[300,250],[300,600]]},video:{context:"outstream",playerSize:[300,250],api:[1,2],protocols:[2,3,5,6],minduration:5,maxduration:30,mimes:["video/mp4","application/javascript"],placement:2,linearity:1,delivery:[1,2],plcmt:4}},bids:[{bidder:"kargo",params:{placementId:"_blRlCURcHY"}},{bidder:"openx",params:{unit:"540782269",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"openx",params:{unit:"540782264",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"ix",params:{siteId:449983,size:[300,250]}},{bidder:"triplelift",params:{inventoryCode:"kg_kompas_desktop_article_imu_2"}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"363578",pageId:"1293724",formatId:"93800",domain:"https://prg8.smartadserver.com"}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"697373",pageId:"2059805",formatId:"141327",domain:"https://prg8.smartadserver.com"}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"697373",pageId:"2059805",formatId:"90012",domain:"https://prg8.smartadserver.com"}},{bidder:"jixie",params:{unit:"1000008-xcBkzfm9sk"}},{bidder:"teads",params:{placementId:165951,pageId:151712}},{bidder:"rubicon",params:{accountId:11834,siteId:434086,zoneId:2484336}},{bidder:"rubicon",params:{accountId:11834,siteId:564588,zoneId:3570184}},{bidder:"gumgum",params:{zone:"o4idpqq9",slot:986386}},{bidder:"pstudio",params:{pubid:"9e680c92-bdf1-41b0-a7f7-281d394574df",adtagid:"9d4e1284-fcf4-4b63-bdb6-50f136a98b13"}},{bidder:"ix",params:{siteId:449983,size:[300,250],video:{context:"outstream",playerSize:[300,250],mimes:["video/mp4","video/webm","applications/javascript"],protocols:[2,3,5,6],api:[2,7],playbackmethod:[6],skip:1,w:300,h:250,minduration:5,maxduration:60,delivery:[2],linearity:1}}}]},{code:"div-gpt-ad-Right_4",ortb2Imp:{ext:{gpid:"1000008-O3cqWflq2S",data:{pbadslot:"1000008-O3cqWflq2S"}}},mediaTypes:{banner:{sizes:[[300,250],[300,600]]},video:{context:"outstream",playerSize:[300,250],api:[1,2],protocols:[2,3,5,6],minduration:5,maxduration:30,mimes:["video/mp4","application/javascript"],placement:2,linearity:1,delivery:[1,2],plcmt:4}},bids:[{bidder:"kargo",params:{placementId:"_blRlCURcHY"}},{bidder:"openx",params:{unit:"540782269",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"ix",params:{siteId:449983,size:[300,250]}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"363578",pageId:"1293724",formatId:"93800",domain:"https://prg8.smartadserver.com"}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"697373",pageId:"2059805",formatId:"141327",domain:"https://prg8.smartadserver.com"}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"697373",pageId:"2059805",formatId:"90012",domain:"https://prg8.smartadserver.com"}},{bidder:"jixie",params:{unit:"1000008-O3cqWflq2S"}},{bidder:"teads",params:{placementId:165951,pageId:151712}},{bidder:"triplelift",params:{inventoryCode:"kg_kompas_desktop_article_imu_2"}},{bidder:"rubicon",params:{accountId:11834,siteId:434086,zoneId:2484338}},{bidder:"rubicon",params:{accountId:11834,siteId:564588,zoneId:3570184}},{bidder:"gumgum",params:{zone:"o4idpqq10",slot:986387}},{bidder:"pstudio",params:{pubid:"9e680c92-bdf1-41b0-a7f7-281d394574df",adtagid:"07e5c539-9255-46dc-8789-979460152db4"}}]},{code:"div-gpt-ad-Right_5",ortb2Imp:{ext:{gpid:"1000008-olHKAR4nCE",data:{pbadslot:"1000008-olHKAR4nCE"}}},mediaTypes:{banner:{sizes:[[300,250]]},video:{context:"outstream",playerSize:[300,250],api:[1,2],protocols:[2,3,5,6],minduration:5,maxduration:30,mimes:["video/mp4","application/javascript"],placement:2,linearity:1,delivery:[1,2],plcmt:4}},bids:[{bidder:"kargo",params:{placementId:"_blRlCURcHY"}},{bidder:"openx",params:{unit:"540782269",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"ix",params:{siteId:449983,size:[300,250]}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"363578",pageId:"1293724",formatId:"93800",domain:"https://prg8.smartadserver.com"}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"697373",pageId:"2059805",formatId:"141327",domain:"https://prg8.smartadserver.com"}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"697373",pageId:"2059805",formatId:"90012",domain:"https://prg8.smartadserver.com"}},{bidder:"jixie",params:{unit:"1000008-olHKAR4nCE"}},{bidder:"teads",params:{placementId:165951,pageId:151712}},{bidder:"triplelift",params:{inventoryCode:"kg_kompas_desktop_article_imu_2"}},{bidder:"rubicon",params:{accountId:11834,siteId:434086,zoneId:2484340}},{bidder:"rubicon",params:{accountId:11834,siteId:564588,zoneId:3570184}},{bidder:"gumgum",params:{zone:"o4idpqq11",slot:986388}},{bidder:"pstudio",params:{pubid:"9e680c92-bdf1-41b0-a7f7-281d394574df",adtagid:"92b8aba2-6d19-4dc2-8988-e76f09e0d82c"}}]},{code:"div-gpt-ad-Skin_Left",ortb2Imp:{ext:{gpid:"1000008-z5ebaX9aVC",data:{pbadslot:"1000008-z5ebaX9aVC"}}},mediaTypes:{banner:{sizes:[[100,650],[100,550]]}},bids:[{bidder:"openx",params:{unit:"559086528",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"ix",params:{siteId:980352,size:[100,650]}},{bidder:"ix",params:{siteId:980352,size:[100,550]}},{bidder:"jixie",params:{unit:"1000008-z5ebaX9aVC"}},{bidder:"teads",params:{placementId:165951,pageId:151712}},{bidder:"rubicon",params:{accountId:11834,siteId:478004,zoneId:2838618}},{bidder:"pstudio",params:{pubid:"9e680c92-bdf1-41b0-a7f7-281d394574df",adtagid:"f6d5bf9d-8c31-404e-afae-acb95645f56d"}}]},{code:"div-gpt-ad-Skin_Right",ortb2Imp:{ext:{gpid:"1000008-jL7PEcvKLc",data:{pbadslot:"1000008-jL7PEcvKLc"}}},mediaTypes:{banner:{sizes:[[100,650],[100,550]]}},bids:[{bidder:"openx",params:{unit:"559086532",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"ix",params:{siteId:980353,size:[100,650]}},{bidder:"ix",params:{siteId:980353,size:[100,550]}},{bidder:"jixie",params:{unit:"1000008-jL7PEcvKLc"}},{bidder:"teads",params:{placementId:165951,pageId:151712}},{bidder:"rubicon",params:{accountId:11834,siteId:478006,zoneId:2838620}},{bidder:"pstudio",params:{pubid:"9e680c92-bdf1-41b0-a7f7-281d394574df",adtagid:"f608f5e6-f157-4c66-b60e-e4a328ce3ab6"}}]},{code:"div-gpt-ad-Horizontal_Ad",ortb2Imp:{ext:{gpid:"1000008-9gpvwZPpkd",data:{pbadslot:"1000008-9gpvwZPpkd"}}},mediaTypes:{banner:{sizes:[[468,60],[1100,50],[728,90],[970,90]]}},bids:[{bidder:"kargo",params:{placementId:"_jkQklh8wPV"}},{bidder:"openx",params:{unit:"559086526",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"ix",params:{siteId:449983,size:[468,60]}},{bidder:"ix",params:{siteId:449983,size:[1100,50]}},{bidder:"jixie",params:{unit:"1000008-9gpvwZPpkd"}},{bidder:"teads",params:{placementId:165951,pageId:151712}},{bidder:"rubicon",params:{accountId:11834,siteId:478002,zoneId:2838616}},{bidder:"gumgum",params:{zone:"o4idpqq15",slot:986390}},{bidder:"pstudio",params:{pubid:"9e680c92-bdf1-41b0-a7f7-281d394574df",adtagid:"3659dda0-8c94-40f5-9f5f-e12d4526ad38"}}]},{code:"div-gpt-ad-Skyscraper",ortb2Imp:{ext:{gpid:"1000008-gPQXfLjNet",data:{pbadslot:"1000008-gPQXfLjNet"}}},mediaTypes:{banner:{sizes:[[120,600],[160,600]]}},
+bids:[{bidder:"openx",params:{unit:"540782269",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"ix",params:{siteId:449983,size:[120,600]}},{bidder:"ix",params:{siteId:449983,size:[160,600]}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"363578",pageId:"1293724",formatId:"96680",domain:"https://prg8.smartadserver.com"}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"697373",pageId:"2059805",formatId:"141327",domain:"https://prg8.smartadserver.com"}},{bidder:"jixie",params:{unit:"1000008-gPQXfLjNet"}},{bidder:"teads",params:{placementId:165951,pageId:151712}},{bidder:"triplelift",params:{inventoryCode:"kg_kompas_desktop_article_imu_2"}},{bidder:"rubicon",params:{accountId:11834,siteId:434086,zoneId:2484342}},{bidder:"gumgum",params:{zone:"o4idpqq12",slot:986389}},{bidder:"pstudio",params:{pubid:"9e680c92-bdf1-41b0-a7f7-281d394574df",adtagid:"15b951a5-81cc-4533-ac1d-2888b8ca0b0c"}}]},{code:"div-gpt-ad-Zone_OSM",ortb2Imp:{ext:{gpid:"1000004-mwHFpzSH2H",data:{pbadslot:"1000004-mwHFpzSH2H"}}},mediaTypes:{banner:{sizes:[[300,250],[1,1]]},video:{context:"outstream",playerSize:[300,250],api:[1,2],protocols:[2,3,5,6],minduration:5,maxduration:30,mimes:["video/mp4","application/javascript"],placement:2,linearity:1,delivery:[1,2],plcmt:4}},bids:[{bidder:"jixie",params:{unit:"1000004-mwHFpzSH2H"}},{bidder:"rubicon",params:{accountId:11834,siteId:573476,zoneId:3632136}},{bidder:"ix",params:{siteId:1145041}},{bidder:"openx",params:{unit:"561354432",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"teads",params:{placementId:165952,pageId:151713}},{bidder:"kargo",params:{placementId:"_blRlCURcHY"}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"697373",pageId:"2059805",formatId:"141327",domain:"https://prg8.smartadserver.com"}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"363578",pageId:"1293724",formatId:"135324",domain:"https://prg8.smartadserver.com"}},{bidder:"teads",params:{placementId:165951,pageId:151712}},{bidder:"triplelift",params:{inventoryCode:"kg_kompas_desktop_article_imu_2"}},{bidder:"gumgum",params:{zone:"o4idpqq10",slot:986387}},{bidder:"pstudio",params:{pubid:"9e680c92-bdf1-41b0-a7f7-281d394574df",adtagid:"07e5c539-9255-46dc-8789-979460152db4"}}]},{code:"gpt_unit_/31800665/KOMPAS.COM/tekno/vignette_0",ortb2Imp:{ext:{gpid:"1000004-5VM0xTRFyw",data:{pbadslot:"1000004-5VM0xTRFyw"}}},mediaTypes:{banner:{sizes:[[300,250],[320,480],[336,280]]},video:{context:"outstream",playerSize:[[300,250],[320,480],[336,280]],api:[1,2],protocols:[2,3,5,6],minduration:5,maxduration:30,mimes:["video/mp4","application/javascript"],placement:2,linearity:1,delivery:[1,2],plcmt:4}},ortb2Imp:{instl:1},bids:[{bidder:"jixie",params:{unit:"1000004-5VM0xTRFyw"}},{bidder:"rubicon",params:{accountId:11834,siteId:573476,zoneId:3632138}},{bidder:"ix",params:{siteId:1145042}},{bidder:"openx",params:{unit:"561354434",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"kargo",params:{placementId:"_blRlCURcHY"}},{bidder:"triplelift",params:{inventoryCode:"kg_kompas_desktop_article_imu_1"}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"697373",pageId:"2059805",formatId:"141327",domain:"https://prg8.smartadserver.com"}},{bidder:"smartadserver",params:{networkId:"3727",siteId:"363578",pageId:"1293724",formatId:"135325",domain:"https://prg8.smartadserver.com"}},{bidder:"teads",params:{placementId:165951,pageId:151712}},{bidder:"gumgum",params:{zone:"o4idpqq8",slot:986385}},{bidder:"pstudio",params:{pubid:"9e680c92-bdf1-41b0-a7f7-281d394574df",adtagid:"7b9642cc-1770-402b-a101-9d8996fe7724"}}]}],gptadslots=[],googletag=googletag||{};(googletag.cmd=googletag.cmd||[]),googletag.cmd.push(function(){googletag.pubads().disableInitialLoad()});var pbjs=pbjs||{};function initAdserver(){pbjs.initAdserverSet||((pbjs.initAdserverSet=!0),googletag.cmd.push(function(){pbjs.que.push(function(){pbjs.setTargetingForGPTAsync(),googletag.pubads().refresh()})}))}(pbjs.que=pbjs.que||[]),pbjs.que.push(function(){pbjs.mergeConfig({jixie:{genids:[{id:"esha",ck:"usermail"},{id:"psha",ck:"kmps_uphn"},{id:"_jxifo"}]}}),pbjs.setConfig({enableSendAllBids:!0,enableTIDs:!0,priceGranularity:"high",userSync:{userIds:[{name:"uid2"},{name:"unifiedId",value:{tdid:uuid__}}],filterSettings:{iframe:{bidders:"*",filter:"include"},image:{bidders:"*",filter:"include"}}},currency:{adServerCurrency:"USD"},syncsPerBidder:0}),(pbjs.bidderSettings={standard:{storageAllowed:!0}}),pbjs.addAdUnits(adUnits),pbjs.requestBids({bidsBackHandler:initAdserver,timeout:PREBID_TIMEOUT})}),setTimeout(function(){initAdserver()},FAILSAFE_TIMEOUT);
+</script>
+<script type="text/javascript">
+
+	googletag.cmd.push(function() {
+
+		gptadslots[1]= googletag.defineSlot('/31800665/KOMPAS.COM/tekno', [[728, 90], [970, 90], [970, 250], [360, 100], [360, 150], [384, 100], [393, 100]],'div-gpt-ad-Top_1-1').setTargeting('Pos',['Top_1']).setTargeting('kg_pos', ['top_1']).addService(googletag.pubads());
+
+dinv = googletag.defineOutOfPageSlot('/31800665/KOMPAS.COM/tekno/vignette', googletag.enums.OutOfPageFormat.INTERSTITIAL);
+if (dinv !== null) {
+         dinv.setTargeting('Pos', ['vignette']);
+         dinv.setTargeting('kg_pos', ['vignette']);
+}gptadslots[112]= googletag.defineSlot('/31800665/KOMPAS.COM/tekno', [[300,600],[300,250],[160,600]],'div-gpt-ad-Giant').setTargeting('Pos',['Giant']).setTargeting('kg_pos', ['giant']).addService(googletag.pubads());gptadslots[31]= googletag.defineSlot('/31800665/KOMPAS.COM/tekno', [[300,250],[300,600]],'div-gpt-ad-Right_3').setTargeting('Pos',['Right_3']).setTargeting('kg_pos', ['right_3']).addService(googletag.pubads());gptadslots[41]= googletag.defineSlot('/31800665/KOMPAS.COM/tekno', [[300,250],[300,600]],'div-gpt-ad-Right_4').setTargeting('Pos',['Right_4']).setTargeting('kg_pos', ['right_4']).addService(googletag.pubads());gptadslots[8]= googletag.defineSlot('/31800665/KOMPAS.COM/tekno', [[468,60],[728,90],[970,90],[1100,50],[1100,150]],'div-gpt-ad-Horizontal_Ad').setTargeting('Pos',['Horizontal_Ad']).setTargeting('kg_pos', ['horizontal_ad']).addService(googletag.pubads());gptadslots[0] = googletag.defineOutOfPageSlot('/31800665/KOMPAS.COM/tekno', 'div-gpt-ad-605665684349116116-oop').setTargeting('Pos',['Overlay']).setTargeting('kg_pos', ['overlay']).addService(googletag.pubads());
+googletag.defineOutOfPageSlot('/31800665/KOMPAS.COM/tekno', 'div-gpt-adbro').setTargeting('pos', ['adbro']).addService(googletag.pubads());setContextualTargeting();
+if(typeof keywordBrandSafety === 'undefined'){
+    console.log("no article keywords");
+}else{
+    console.log("execute keywords");
+    setKeywordTargeting();
+}
+
+function setContextualTargeting() {
+    dfp_keywords = getKeywords();
+    console.log(dfp_keywords);
+    googletag.pubads().setTargeting('contextual_targeting', dfp_keywords);
+}
+
+function getKeywords(){
+    var metas = document.getElementsByTagName('meta');
+    var str = (metas.namedItem("content_tags") || {}).content;
+    if (str!=null){
+        var keywords = str.toLowerCase().split(",").map(function(item) {
+            return item.trim().replace(/\s\s+/g, ' ');
+        });
+        return keywords;
+    }
+    return [''];
+}
+
+// s:new keyword targeting via GAM
+function setKeywordTargeting() {
+    dfp_keywords = getArticle();
+    console.log(dfp_keywords);
+    googletag.pubads().setTargeting('keyword_targeting', dfp_keywords);
+}
+
+function getArticle(){
+    var strKey = keywordBrandSafety;
+    if (strKey!=null){
+        var keywords = strKey.toLowerCase().split(/[ .]/).map(function(item) {
+            return item.trim().replace(/\W*(&amp;quot;)\W*/g, '').replace(/([^a-zA-Z0-9]$|[()\n\"])/g, '');
+        });
+        keywords = keywords.filter((str) => str !== '');
+        return keywords;
+    }
+    return null;
+}
+// e:new keyword targeting via GAM
+
+try{
+    // Retrieving local storage
+    var ls = window.localStorage;
+	
+	var lr = ls.getItem("_jxitr");
+	if (lr && lr.length > 2){
+		try{
+			googletag.pubads().setTargeting('jx_audience_interest', JSON.parse(lr).join().split(','));
+		}catch {}
+	}
+	
+	var li = ls.getItem("_jxitd");
+	if (li && li.length > 2){
+		try{
+			googletag.pubads().setTargeting('jx_audience_intend', JSON.parse(li).join().split(','));
+		}catch {}
+	}
+
+}catch(e){
+      //console.log("Localstorage not accessible or any other error: " + e.message);
+}
+if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+    googletag.pubads().setTargeting('kg_inv_type','mweb');
+}else{
+     googletag.pubads().setTargeting('kg_inv_type','desktop');
+}
+googletag.pubads().setTargeting('kg_group_sites','kompas_com');
+
+
+var rl_adx_val = '';
+	var rl_adx_sec = new Date().getSeconds();
+	if(rl_adx_sec==1||rl_adx_sec==2){rl_adx_val='300';}
+	if(rl_adx_sec==3||rl_adx_sec==4){rl_adx_val='600';}
+	if(rl_adx_sec==5||rl_adx_sec==6){rl_adx_val='900';}
+	if(rl_adx_sec==7||rl_adx_sec==8){rl_adx_val='1200';}
+	if(rl_adx_sec==9||rl_adx_sec==10){rl_adx_val='1500';}
+	if(rl_adx_sec==11||rl_adx_sec==12){rl_adx_val='1800';}
+	console.log('rl_adx_val = '+rl_adx_val);
+	if(rl_adx_val!=''){
+	googletag.pubads().setTargeting('rl_adx',rl_adx_val);
+	}googletag.pubads().setTargeting('page', 'index');
+        googletag.pubads().enableSingleRequest();
+        
+		googletag.enableServices();
+	});
+
+
+</script>
+<!-- End: GPT -->
+
+
+<!-- (ads.google.head.rs) -->
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.kompas.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://search.kompas.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "url": "https://www.kompas.com",
+  "logo": "https://asset.kompas.com/data/2018/kompascom/images/logo-kompascom-biru.png",
+  "sameAs" : [
+    "https://www.facebook.com/kompascom",
+    "https://www.twitter.com/kompascom",
+    "https://instagram.com/kompascom",
+    "https://line.me/ti/p/%40kompas.com"
+  ]
+}
+</script>
+
+<style type="text/css">
+/* Avoid empty images to appear as broken */ 
+img:not([src]):not([srcset]) {
+  visibility: hidden;
+}
+/* Fix for images to never exceed the width of the container */
+img {
+  max-width: 100%;
+}
+</style>
+<script type="text/javascript">
+function fb_share(e,o){return u=o,t=e,window.open("http://www.facebook.com/sharer.php?u="+encodeURIComponent(u)+"&t="+encodeURIComponent(t),"sharer","toolbar=0,status=0,width=626,height=436"),!1}function tweet_share(t,x=''){return u=t,window.open("https://twitter.com/intent/tweet?text="+encodeURIComponent(u)+"&url="+encodeURIComponent(x),"sharer","toolbar=0,status=0,width=626,height=436"),!1}function plus_share(t){return u=t,window.open("https://plus.google.com/share?url="+encodeURIComponent(u),"sharer","toolbar=0,status=0,width=626,height=436"),!1}function telegram_share(e,o,x){return u=o,t=e,window.open("https://t.me/share/url?url="+encodeURIComponent(u)+"&text="+encodeURIComponent(t)+x,"sharer","toolbar=0,status=0,width=626,height=436"),!1}function whatsapp_share(e,o){return u=o,t=e,window.open("https://wa.me/?text="+encodeURIComponent(u)+" - "+encodeURIComponent(t),"sharer","toolbar=0,status=0,width=626,height=436"),!1}function whatsapp_share_new(e,o){return u=o,t=e,window.open("https://wa.me/?text="+encodeURIComponent(t)+encodeURIComponent(u),"sharer","toolbar=0,status=0,width=626,height=436"),!1}
+</script>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var addebug = document.querySelectorAll('.footerCopyright');
+    for (i = 0; i < addebug.length; ++i) {
+        addebug[i].addEventListener('click', function handleClick() {
+            console.log('Debugged');
+            googletag.openConsole();
+        });
+    }
+});
+</script>
+
+  <script async="" src="https://cdn.oval.id/tracker/p/kompas/oval_web_analytics_latest.js"></script>
+  <!-- <script async src="https://cdn.oval.id/tracker/p/kompasreco/oval_web_analytics_latest.js "></script> -->
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '423063207362401');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+    <!-- s : tekno style -->
+	<link href="https://asset.kompas.com/data/2024/08/15/kompascom/desktop/css/style-tekno.min.css" rel="stylesheet" type="text/css">
+    <!-- e : tekno style -->
+
+<meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js" nonce="IOvmxAasolBKwB_qzaJVMg" async=""></script><link href="https://securepubads.g.doubleclick.net/pagead/managed/dict/m202512040101/gpt" rel="compression-dictionary"><script src="https://accounts.google.com/gsi/client" defer="" async=""></script><script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxVlnjRqPdAEIumR2P2PRPGlQ_QI6UCnTDBocpBweUwOKNWDPguZ5vx9vKp5-cDsATJyIKvozcVzBDc3pM1dqVpIXHSNe5D_3K-qb4VXTcXrBnsKWHMSy7LY_bxrlRKQxEa7G8MIig==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzY1NDIyNjk0LDI5NzAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzddXSwiaHR0cHM6Ly90ZWtuby5rb21wYXMuY29tL2dhZGdldCIsbnVsbCxbWzgsIjlRa3RkQkhtdm9jIl0sWzksImVuLVVTIl0sWzE5LCIyIl0sWzE3LCJbMF0iXSxbMjQsIiJdLFsyOSwiZmFsc2UiXV1d" nonce="IOvmxAasolBKwB_qzaJVMg"></script><script async="" src="https://fundingchoicesmessages.google.com/i/23178050824?ers=3" nonce="IOvmxAasolBKwB_qzaJVMg"></script><style id="googleidentityservice_button_styles">.qJTHM{-moz-user-select:none;-webkit-user-select:none;-ms-user-select:none;color:#202124;direction:ltr;-webkit-touch-callout:none;font-family:"Roboto-Regular",arial,sans-serif;-webkit-font-smoothing:antialiased;font-weight:400;margin:0;overflow:hidden;-webkit-text-size-adjust:100%}.ynRLnc{left:-9999px;position:absolute;top:-9999px}.L6cTce{display:none}.bltWBb{overflow-wrap:break-word;word-break:break-word}.hSRGPd{color:#1a73e8;cursor:pointer;font-weight:500;text-decoration:none}.Bz112c-W3lGp{height:16px;width:16px}.Bz112c-E3DyYd{height:20px;width:20px}.Bz112c-r9oPif{height:24px;width:24px}.Bz112c-u2z5K{height:36px;width:36px}.Bz112c-uaxL4e{border-radius:10px}.LgbsSe-Bz112c{display:block}.S9gUrf-YoZ4jf{border:none;margin:0;padding:0}.S9gUrf-YoZ4jf *{border:none;margin:0;padding:0}.fFW7wc-ibnC6b>.aZ2wEe>div{border-color:#4285f4}.P1ekSe-ZMv3u{-webkit-transition:height linear .2s;transition:height linear .2s}.P1ekSe-ZMv3u>div:nth-child(1){background-color:#1a73e8!important;-webkit-transition:width linear .3s;transition:width linear .3s}.P1ekSe-ZMv3u>div:nth-child(2){background-image:-webkit-gradient(linear,left top,right top,from(rgba(255,255,255,.7)),to(rgba(255,255,255,.7))),-webkit-gradient(linear,left top,right top,from(#1a73e8),to(#1a73e8))!important;background-image:-webkit-linear-gradient(left,rgba(255,255,255,.7),rgba(255,255,255,.7)),-webkit-linear-gradient(left,#1a73e8,#1a73e8)!important;background-image:linear-gradient(to right,rgba(255,255,255,.7),rgba(255,255,255,.7)),linear-gradient(to right,#1a73e8,#1a73e8)!important}.P1ekSe-ZMv3u>div:nth-child(3){background-image:-webkit-gradient(linear,left top,right top,from(rgba(255,255,255,.7)),to(rgba(255,255,255,.7))),-webkit-gradient(linear,left top,right top,from(#1a73e8),to(#1a73e8))!important;background-image:-webkit-linear-gradient(left,rgba(255,255,255,.7),rgba(255,255,255,.7)),-webkit-linear-gradient(left,#1a73e8,#1a73e8)!important;background-image:linear-gradient(to right,rgba(255,255,255,.7),rgba(255,255,255,.7)),linear-gradient(to right,#1a73e8,#1a73e8)!important}.haAclf{display:inline-block}.nsm7Bb-HzV7m-LgbsSe{border-radius:4px;box-sizing:border-box;-webkit-transition:background-color .218s,border-color .218s;transition:background-color .218s,border-color .218s;-moz-user-select:none;-webkit-user-select:none;-ms-user-select:none;-webkit-appearance:none;background-color:#fff;background-image:none;border:1px solid #dadce0;color:#3c4043;cursor:pointer;font-family:"Google Sans",arial,sans-serif;font-size:14px;height:40px;letter-spacing:.25px;outline:none;overflow:hidden;padding:0 12px;position:relative;text-align:center;vertical-align:middle;white-space:nowrap;width:auto}@media screen and (-ms-high-contrast:active){.nsm7Bb-HzV7m-LgbsSe{border:2px solid windowText;color:windowText}}@media screen and (preferes-contrast:more){.nsm7Bb-HzV7m-LgbsSe{color:#000}}.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe{font-size:14px;height:32px;letter-spacing:.25px;padding:0 10px}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe{font-size:11px;height:20px;letter-spacing:.3px;padding:0 8px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe{padding:0;width:40px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.pSzOP-SxQuSe{width:32px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.purZT-SxQuSe{width:20px}.nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK{border-radius:20px}.nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK.pSzOP-SxQuSe{border-radius:16px}.nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK.purZT-SxQuSe{border-radius:10px}.nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc{border:none;color:#fff}.nsm7Bb-HzV7m-LgbsSe.MFS4be-v3pZbf-Ia7Qfc{background-color:#1a73e8}.nsm7Bb-HzV7m-LgbsSe.MFS4be-JaPV2b-Ia7Qfc{background-color:#202124;color:#e8eaed}@media screen and (prefers-contrast:more){.nsm7Bb-HzV7m-LgbsSe.MFS4be-JaPV2b-Ia7Qfc{color:#fff}}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{height:18px;margin-right:8px;min-width:18px;width:18px}.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{height:14px;min-width:14px;width:14px}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{height:10px;min-width:10px;width:10px}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-Bz112c{margin-left:8px;margin-right:-4px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{margin:0;padding:10px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.pSzOP-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{padding:8px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{padding:4px}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{border-top-left-radius:3px;border-bottom-left-radius:3px;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-box-align:center;-webkit-align-items:center;align-items:center;background-color:#fff;height:36px;margin-left:-10px;margin-right:12px;min-width:36px;width:36px}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf .nsm7Bb-HzV7m-LgbsSe-Bz112c,.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf .nsm7Bb-HzV7m-LgbsSe-Bz112c{margin:0;padding:0}.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{height:28px;margin-left:-8px;margin-right:10px;min-width:28px;width:28px}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{height:16px;margin-left:-6px;margin-right:8px;min-width:16px;width:16px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{border-radius:3px;margin-left:2px;margin-right:0;padding:0}.nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{border-radius:18px}.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{border-radius:14px}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{border-radius:8px}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-align-items:center;-webkit-box-align:center;align-items:center;-webkit-flex-direction:row;-webkit-box-orient:horizontal;-webkit-box-direction:normal;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;-webkit-flex-wrap:nowrap;flex-wrap:nowrap;height:100%;position:relative;width:100%}.nsm7Bb-HzV7m-LgbsSe .oXtfBe-l4eHX{-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-BPrWId{-webkit-flex-grow:1;-webkit-box-flex:1;flex-grow:1;font-family:"Google Sans",arial,sans-serif;font-weight:500;overflow:hidden;text-overflow:ellipsis;vertical-align:top}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-BPrWId{font-weight:300}.nsm7Bb-HzV7m-LgbsSe .oXtfBe-l4eHX .nsm7Bb-HzV7m-LgbsSe-BPrWId{-webkit-flex-grow:0;-webkit-box-flex:0;flex-grow:0}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-MJoBVe{-webkit-transition:background-color .218s;transition:background-color .218s;bottom:0;left:0;position:absolute;right:0;top:0}.nsm7Bb-HzV7m-LgbsSe:hover,.nsm7Bb-HzV7m-LgbsSe:focus{box-shadow:none;border-color:rgb(210,227,252);outline:none}.nsm7Bb-HzV7m-LgbsSe:focus-within{outline:2px solid #00639b;border-color:transparent}.nsm7Bb-HzV7m-LgbsSe:hover .nsm7Bb-HzV7m-LgbsSe-MJoBVe{background:rgba(66,133,244,.08)}.nsm7Bb-HzV7m-LgbsSe:active .nsm7Bb-HzV7m-LgbsSe-MJoBVe,.nsm7Bb-HzV7m-LgbsSe:focus .nsm7Bb-HzV7m-LgbsSe-MJoBVe{background:rgba(66,133,244,.1)}.nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc:hover .nsm7Bb-HzV7m-LgbsSe-MJoBVe{background:rgba(255,255,255,.24)}.nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc:active .nsm7Bb-HzV7m-LgbsSe-MJoBVe,.nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc:focus .nsm7Bb-HzV7m-LgbsSe-MJoBVe{background:rgba(255,255,255,.32)}.nsm7Bb-HzV7m-LgbsSe .n1UuX-DkfjY{border-radius:50%;display:-webkit-box;display:-webkit-flex;display:flex;height:20px;margin-left:-4px;margin-right:8px;min-width:20px;width:20px}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId{font-family:"Roboto";font-size:12px;text-align:left}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .ssJRIf,.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff .fmcmS{overflow:hidden;text-overflow:ellipsis}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-align-items:center;-webkit-box-align:center;align-items:center;color:#5f6368;fill:#5f6368;font-size:11px;font-weight:400}.nsm7Bb-HzV7m-LgbsSe.jVeSEe.MFS4be-Ia7Qfc .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff{color:#e8eaed;fill:#e8eaed}@media screen and (prefers-contrast:more){.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff,.nsm7Bb-HzV7m-LgbsSe.jVeSEe.MFS4be-Ia7Qfc .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff{color:#000;fill:#000}}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff .Bz112c{height:18px;margin:-3px -3px -3px 2px;min-width:18px;width:18px}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{border-top-left-radius:0;border-bottom-left-radius:0;border-top-right-radius:3px;border-bottom-right-radius:3px;margin-left:12px;margin-right:-10px}.nsm7Bb-HzV7m-LgbsSe.jVeSEe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{border-radius:18px}.L5Fo6c-sM5MNb{border:0;display:block;left:0;position:relative;top:0}.L5Fo6c-bF1uUb{border-radius:4px;bottom:0;cursor:pointer;left:0;position:absolute;right:0;top:0}.L5Fo6c-bF1uUb:focus{border:none;outline:none}sentinel{}</style><script esp-signal="true" src="https://cdn.prod.uidapi.com/uid2SecureSignal.js" nonce="IOvmxAasolBKwB_qzaJVMg"></script><meta http-equiv="origin-trial" content="AxjhRadLCARYRJawRjMjq4U8V8okQvSnrBIJWdMajuEkN3/DfVAcLcFhMVrUWnOXagwlI8dQD84FwJDGj9ohqAYAAABveyJvcmlnaW4iOiJodHRwczovL2dvb2dsZWFkc2VydmljZXMuY29tOjQ0MyIsImZlYXR1cmUiOiJGZXRjaExhdGVyQVBJIiwiZXhwaXJ5IjoxNzI1NDA3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxVJx42tiw9TJ0t8LodZN5adwbj4kQ-m8xo26WzL4a2bcNGaRKhAxkWojf_SbUCqAePI9fXxIcs25sLTd9vYFOmbdDSCVr3EuBXUNT6SkqzbkhVNF5K3ntB-5BXve7eGR5HLLWh-7A==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzY1NDIyNzAxLDE3NzAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsNl0sbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsMV0sImh0dHBzOi8vdGVrbm8ua29tcGFzLmNvbS9nYWRnZXQiLG51bGwsW1s4LCI5UWt0ZEJIbXZvYyJdLFs5LCJlbi1VUyJdLFsxOSwiMiJdLFsxNywiWzBdIl0sWzI0LCIiXSxbMjksImZhbHNlIl1dXQ" nonce="IOvmxAasolBKwB_qzaJVMg"></script><script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxX-u7nt0nlTDv1-mLePR7-dDqin5XBD9JbIL6PwJf7nY5qezvLHL-bknD9QDT6vcVlJjGy8EfJoe8ADWAzUDbrYCbklp1dOkhaSjE_puk1Lw_MgA3B3U4WT7y_s55cLpAP2DgghOw==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzY1NDIyNzAxLDI4MzAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsNiw5XSxudWxsLDIsbnVsbCwiZW4iLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCwxXSwiaHR0cHM6Ly90ZWtuby5rb21wYXMuY29tL2dhZGdldCIsbnVsbCxbWzgsIjlRa3RkQkhtdm9jIl0sWzksImVuLVVTIl0sWzE5LCIyIl0sWzE3LCJbMF0iXSxbMjQsIiJdLFsyOSwiZmFsc2UiXV1d" nonce="IOvmxAasolBKwB_qzaJVMg"></script><link id="googleidentityservice" type="text/css" media="all" href="https://accounts.google.com/gsi/style" rel="stylesheet"><meta http-equiv="origin-trial" content="A8o5T4MyEkRZqLA9WeG2XTFdV5tsX2Prg85xyQ+RL1btVuybB1K/EQ+7JUsPK+J32oBMTnsoF9B4A+qTlL6efgQAAABweyJvcmlnaW4iOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkZlZENtQnV0dG9uTW9kZSIsImV4cGlyeSI6MTc0NDY3NTIwMCwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="></head>
+
+<body class="theme--tekno" aria-hidden="false"><div id="googleLgnBtnOneTap" style="display:none;"></div><div id="googleLgnBtn3" style="display:none;"><div class="S9gUrf-YoZ4jf" style="position: relative;"><div><div tabindex="0" role="button" aria-labelledby="button-label" class="nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe i5vt6e-Ia7Qfc uaxL4e-RbRzK"><div class="nsm7Bb-HzV7m-LgbsSe-MJoBVe"></div><div class="nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb "><div class="nsm7Bb-HzV7m-LgbsSe-Bz112c"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" class="LgbsSe-Bz112c"><g><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"></path><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"></path><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"></path><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"></path><path fill="none" d="M0 0h48v48H0z"></path></g></svg></div><span class="nsm7Bb-HzV7m-LgbsSe-BPrWId">Login dengan Google</span><span class="L6cTce" id="button-label">Login dengan Google. Dibuka di tab baru</span></div></div></div><iframe src="https://accounts.google.com/gsi/button?theme=outline&amp;size=large&amp;is_fedcm_supported=true&amp;client_id=776828813358-infk4sje3q07sa8mg8n6lq1mk2pdkkua.apps.googleusercontent.com&amp;iframe_id=gsi_710809_12556&amp;cas=%2F%2F%2BcrIjwG%2BVj36D0y9UgXG1XMtTmd9J7fp5yviUwkG8" class="L5Fo6c-PQbLGe" allow="identity-credentials-get" id="gsi_710809_12556" title="Tombol Login dengan Google" style="display: block; position: relative; top: 0px; left: 0px; height: 0px; width: 0px; border: 0px;"></iframe></div></div><div id="googleLgnBtn" style="display:none;"><div class="S9gUrf-YoZ4jf" style="position: relative;"><div><div tabindex="0" role="button" aria-labelledby="button-label" class="nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe i5vt6e-Ia7Qfc uaxL4e-RbRzK"><div class="nsm7Bb-HzV7m-LgbsSe-MJoBVe"></div><div class="nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb "><div class="nsm7Bb-HzV7m-LgbsSe-Bz112c"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" class="LgbsSe-Bz112c"><g><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"></path><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"></path><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"></path><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"></path><path fill="none" d="M0 0h48v48H0z"></path></g></svg></div><span class="nsm7Bb-HzV7m-LgbsSe-BPrWId">Login dengan Google</span><span class="L6cTce" id="button-label">Login dengan Google. Dibuka di tab baru</span></div></div></div><iframe src="https://accounts.google.com/gsi/button?theme=outline&amp;size=large&amp;is_fedcm_supported=true&amp;client_id=776828813358-infk4sje3q07sa8mg8n6lq1mk2pdkkua.apps.googleusercontent.com&amp;iframe_id=gsi_710798_547121&amp;cas=%2F%2F%2BcrIjwG%2BVj36D0y9UgXG1XMtTmd9J7fp5yviUwkG8" class="L5Fo6c-PQbLGe" allow="identity-credentials-get" id="gsi_710798_547121" title="Tombol Login dengan Google" style="display: block; position: relative; top: 0px; left: 0px; height: 0px; width: 0px; border: 0px;"></iframe></div></div>
+       
+<iframe name="googlefcPresent" style="width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px; display: none;"></iframe><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PT7PC4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  
+<div class="wrap">
+
+
+<!-- header-->
+<div class="header clearfix">
+    <div class="row clearfix header__wrap">
+        <div class="container clearfix header__row">
+            <div class="row col-offset-fluid clearfix">
+                <div class="col-bs10-5 clearfix">
+                    <div class="logo">
+                        <a href="https://www.kompas.com/?refresh_attempt=1" data-google-interstitial="false" class="logo-kompascom">
+                                                            <style>.logo img {width:auto;}.logo {width:auto;}</style>
+
+                                                                                                            <img src="https://asset.kompas.com/data/2025/10/03/kompascom/images/logo-kompascom-desktop.svg" alt="30 Tahun Kompas.com, Jernih Melihat Dunia" id="anni26-img">
+                                                                    
+
+                                                    </a>
+                        <!-- <a href="https://vik.kompas.com/harapan-jurnalisme-berkelanjutan" class="anni25-link"></a> -->
+                    </div>
+                </div>
+                <div class="col-bs10-5 clearfix">
+                    <!-- search -->
+                    <div class="col-bs12-8 col-offset-0">
+                        <div class="header-search-box">
+                            <form action="https://search.kompas.com/search" class="header-search" id="fcSearch">
+                                <div class="searchBox-wrap">
+                                    <input type="text" name="q" class="header-search-input" value="" placeholder="Cari tokoh, topik atau peristiwa" autocomplete="off" list="populer" id="cSearch">
+                                    <input class="header-search-button" type="submit" name="">
+                                    <span class="icon-svg icon-search"></span>
+                                    <button type="button" class="searchClear -clearSubmit" aria-label="Clear search"></button>
+                                </div>
+                            </form>
+
+                            <div class="header-search-suggestion searchSuggest-box">
+                                <div class="searchSuggest-inner">
+                                    <div class="searchResult">
+                                        <div class="searchFill" id="autoFillArtikel"></div>
+                                        <div class="searchFill" id="enterResult"></div>
+                                        <div class="searchResult" id="enterResultArticle"></div>
+                                    </div>
+
+                                    <!-- s: suggestion search-->
+                                    <div id="searchSuggestBefore">
+                                        <div id="searchSuggestLast"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="dark-header-item">
+                        <div class="dark-wrapper js-darkWrapper -active">
+                            <button type="button" class="button-default js-darkSetter" id="menu-darkmode" aria-label="Atur mode" aria-expanded="false" aria-controls="darkmode">
+                                <span class="icon-svg icon-darkmode" aria-hidden="true"></span>
+                            </button>
+                            <div class="dark-setting">
+                                <ul>
+                                    <li>
+                                        <button type="button" role="button" class="button dark-link js-darkToggle -active" data-dark="system">Otomatis</button>
+                                    </li>
+                                    <li>
+                                        <button type="button" role="button" class="button dark-link js-darkToggle" data-dark="dark">Mode Gelap</button>
+                                    </li>
+                                    <li>
+                                        <button type="button" role="button" class="button dark-link js-darkToggle" data-dark="light">Mode Terang</button>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                                        
+                    <!-- <div class="loyalty__link" id="loyalty_koin" style="display: none">
+                        <a href="https://play.kompas.com/loyalty">
+                            <span class="icon-svg icon-koin"></span>
+                            <span class="loyalty__link__text">Koin</span>
+                            <i class="loyalty__link__badge active"></i>
+                        </a>
+                    </div> -->
+
+                                        <!-- play icon -->
+                    <div class="menu-item menu-plus">
+	                    <a href="https://plus.kompas.com/detail?source=top_navbar" class="button-default active" role="link" id="menu-plus" aria-label="Kompas.com+" data-google-interstitial="false">
+	                        <span class="icon-svg icon-plus" aria-hidden="true">
+	                            <img src="https://asset.kompas.com/data/2025/03/05/1535/icon-kplus.gif" alt="Icon Kompascom+">
+	                        </span>
+	                    </a>
+	                </div>
+                                        
+                    <div class="sso__header col-bs12-4">
+                        <ul class="sso__wrap">
+                            <li class="sso__item">
+                                <a class="sso__link sso__link__icon js-sso-user" href="javascript:void(0)" data-google-interstitial="false">
+                                    <i class="sso__icon__login" id="sso__icon__login_top"></i>
+                                    <i class="sso__badge" style="display: none;"></i>
+                                </a>
+                                <div class="sso__option -fixed -hide js-sso-user-board">
+                                    <ul>
+                                        <li id="sso__item"><a id="txt_signin" href="https://account.kompas.com/login/a29tcGFz/aHR0cHM6Ly90ZWtuby5rb21wYXMuY29tL2dhZGdldA==" data-google-interstitial="false"><span><i class="sso__icon__login"></i> Login</span></a></li>
+                                        <li></li>
+
+                                        <!-- <li>
+                                            <a href="https://activity.kompas.com/voucher?source=navbar" class="myvalue__btn -new">
+                                                <span><div class="myvalue__icon"><img class="lozad" data-src="https://asset.kompas.com/data/2024/myvalue/desktop/images/icon-myvalue.png" alt=""></div> Voucher</span>
+                                                <div class="myvalue__btn__wrap">
+                                                    <div class="myvalue__icon"><img class="lozad" data-src="https://asset.kompas.com/data/2024/myvalue/desktop/images/icon-myvalue-gif.gif" alt=""></div>
+                                                    <span>Ada voucher buat kamu</span>
+                                                </div>
+                                            </a>
+                                        </li> -->
+                        
+                                                                                    <li><a href="https://plus.kompas.com/detail?source=profile" data-google-interstitial="false"><span><i class="sso__icon__subscription"></i> Gabung KOMPAS.com+ <i class="sso__badge__inline"></i></span></a></li>
+                                                                                
+                                        <li></li>
+                                        <li><a href="https://activity.kompas.com/saved" data-google-interstitial="false"><span><i class="sso__icon__bookmark"></i> Konten yang disimpan</span></a></li>
+                                        <li></li>
+                                        <li><a href="https://activity.kompas.com/liked" data-google-interstitial="false"><span><i class="sso__icon__liked"></i> Konten yang disukai</span></a></li>
+                                        <li></li>
+		                    			<li><a href="https://activity.kompas.com/minat" data-google-interstitial="false"><span><i class="sso__icon__interest"></i> Atur Minat</span></a></li>
+                                        <li></li>
+                                        <li id="feedback__item"><a href="https://www.kompas.com/feedback" data-google-interstitial="false"><span><i class="sso__icon__notif"></i> Berikan Masukanmu <i class="sso__badge__inline" style="display: none;"></i></span></a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                                        <div class="kid__wrap">
+                                                <a target="_blank" href="https://plus.kompas.com/kompas-one?source=top_navbar" class="kid__button" data-google-interstitial="false">Langganan Kompas One</a>
+                                            </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+    <!-- nav-->
+    <div class="js-nav-offset"></div>
+    <div class="row clearfix nav">
+        <!-- (ads.skin.full) -->
+        <div class="container clearfix nav__wrap">
+            <div class="logo logo--sticky">
+                                    <a href="https://www.kompas.com/?refresh_attempt=1" class="logo-kompascom" data-google-interstitial="false"><img class="lozad" data-src="https://asset.kompas.com/data/2017/wp/images/logo-kompascom-2017.png" alt="www.kompas.com"></a>
+                            </div>
+
+              
+            <ul class="nav__row clearfix">
+    <li class="nav__item">
+        <a href="https://news.kompas.com?source=navbar" class="nav__link nav__link--news" data-google-interstitial="false">News</a>
+        <ul class="nav__sub nav__sub--news">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="https://nasional.kompas.com" class="nav__sublink" data-google-interstitial="false">Nasional</a>            
+                    <a href="https://www.kompas.com/global" class="nav__sublink" data-google-interstitial="false">Global</a>            
+                    <a href="https://megapolitan.kompas.com" class="nav__sublink" data-google-interstitial="false">Megapolitan</a>            
+                    <a href="https://regional.kompas.com" class="nav__sublink" data-google-interstitial="false">Regional</a>            
+                    <a href="https://pemilu.kompas.com" class="nav__sublink" data-google-interstitial="false">Pemilu</a>
+                    <a href="https://www.kompas.com/hype" class="nav__sublink" data-google-interstitial="false">Hype</a>
+                    <a href="https://www.kompas.com/konsultasihukum" class="nav__sublink" data-google-interstitial="false">Konsultasi Hukum</a>            
+                    <a href="https://www.kompas.com/cekfakta" class="nav__sublink" data-google-interstitial="false">Cek Fakta</a>            
+                    <a href="https://inside.kompas.com/suratpembaca" class="nav__sublink" data-google-interstitial="false">Surat Pembaca</a>            
+                    <a href="https://indeks.kompas.com/?site=news" class="nav__sublink" data-google-interstitial="false">Indeks</a>            
+                </div>
+                <div class="nav__subitem">
+                    <a href="https://kilasdaerah.kompas.com" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kilas Daerah</a>            
+                    <a href="https://kilaskorporasi.kompas.com" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kilas Korporasi</a>            
+                    <a href="https://kilaskementerian.kompas.com" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kilas Kementerian</a>            
+                    <a href="https://sorotpolitik.kompas.com" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Sorot Politik</a>            
+                    <a href="https://kilasbadannegara.kompas.com" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kilas Badan Negara</a>            
+                    <a href="https://kelanaindonesia.kompas.com" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kelana Indonesia</a>            
+                    <a href="https://www.kompas.com/topik-pilihan/list/7782/kalbe-health-corner" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kalbe Health Corner</a>            
+                    <a href="https://kilasparlemen.kompas.com" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kilas Parlemen</a>            
+                    <a href="https://kilasbumn.kompas.com" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kilas BUMN</a>  
+                    <a href="https://penjaganegeri.kompas.com" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Penjaga Negeri</a>          
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="https://www.kompas.com/nusaraya?source=navbar" class="nav__link nav__link--nusaraya" data-google-interstitial="false">Nusaraya</a>
+        <ul class="nav__sub nav__sub--nusaraya">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="https://www.kompas.com/sumatera-utara" class="nav__sublink" data-google-interstitial="false">Sumatera Utara</a>
+                    <a href="https://www.kompas.com/sumatera-selatan" class="nav__sublink" data-google-interstitial="false">Sumatera Selatan</a>
+                    <a href="https://www.kompas.com/sumatera-barat" class="nav__sublink" data-google-interstitial="false">Sumatera Barat</a>
+                    <a href="https://www.kompas.com/riau" class="nav__sublink" data-google-interstitial="false">Riau</a>
+                    <a href="https://www.kompas.com/lampung" class="nav__sublink" data-google-interstitial="false">Lampung</a>
+                    <a href="https://www.kompas.com/banten" class="nav__sublink" data-google-interstitial="false">Banten</a>
+                    <a href="https://yogyakarta.kompas.com" class="nav__sublink" data-google-interstitial="false">Yogyakarta</a>
+                    <a href="https://www.kompas.com/jawa-barat" class="nav__sublink" data-google-interstitial="false">Jawa Barat</a>
+                </div>
+                <div class="nav__subitem">
+                    <a href="https://www.kompas.com/jawa-tengah" class="nav__sublink" data-google-interstitial="false">Jawa Tengah</a>
+                    <a href="https://www.kompas.com/jawa-timur" class="nav__sublink" data-google-interstitial="false">Jawa Timur</a>
+                    <a href="https://www.kompas.com/kalimantan-barat" class="nav__sublink" data-google-interstitial="false">Kalimantan Barat</a>
+                    <a href="https://www.kompas.com/kalimantan-timur" class="nav__sublink" data-google-interstitial="false">Kalimantan Timur</a>
+                    <a href="https://www.kompas.com/sulawesi-selatan" class="nav__sublink" data-google-interstitial="false">Sulawesi Selatan</a>
+                    <a href="https://denpasar.kompas.com" class="nav__sublink" data-google-interstitial="false">Bali</a>
+                    <a href="https://indeks.kompas.com/?site=nusaraya" class="nav__sublink" data-google-interstitial="false">Indeks</a>
+                </div>
+            </li>
+        </ul>
+    </li>
+        <li class="nav__item nav__link--new">
+        <a href="https://event.kompas.com?source=navbar" class="nav__link nav__link--tren" data-google-interstitial="false">Event</a>
+    </li>
+    <!-- <li class="nav__item nav__link--new" style="flex:none;">
+        <a href="https://jagatliterasi.kompas.com?source=navbar" class="nav__link nav__link--jagat">Jagat Literasi</a>
+        <ul class="nav__sub nav__sub-nusaraya">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="https://jagatliterasi.kompas.com/artikel?source=navbar" class="nav__sublink">Artikel</a>
+                    <a href="https://jagatliterasi.kompas.com/foto?source=navbar" class="nav__sublink">Foto</a>
+                    <a href="https://jagatliterasi.kompas.com/video?source=navbar" class="nav__sublink">Video</a>
+                </div>
+                <div class="nav__subitem">
+                    <a href="https://jagatliterasi.kompas.com/rolls?source=navbar" class="nav__sublink">Rolls</a>
+                    <a href="https://jagatliterasi.kompas.com/donasi?source=navbar" class="nav__sublink">Donasi</a>
+                    <a href="https://jagatliterasi.kompas.com/stem?source=navbar" class="nav__sublink nav__sublink--hot">STEM</a> 
+                </div>
+            </li>
+        </ul>
+    </li> -->
+    <li class="nav__item">
+        <a href="https://cahaya.kompas.com?source=navbar" class="nav__link nav__link--cahaya nav__link--cahaya" data-google-interstitial="false">Cahaya</a>
+        <ul class="nav__sub nav__sub--cahaya">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="https://cahaya.kompas.com/aktual?source=navbar" class="nav__sublink" data-google-interstitial="false">Aktual</a>
+                </div>
+                <div class="nav__subitem">
+                    <a href="https://cahaya.kompas.com/doa-dan-niat?source=navbar" class="nav__sublink" data-google-interstitial="false">Doa dan Niat</a>
+                </div>
+                <div class="nav__subitem">
+                    <a href="https://www.kompas.com/jadwal-sholat?source=navbar" class="nav__sublink" data-google-interstitial="false">Jadwal Sholat</a>
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="https://tekno.kompas.com?source=navbar" class="nav__link nav__link--tekno--active" data-google-interstitial="false">Tekno</a>
+        <ul class="nav__sub nav__sub--tekno">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="https://tekno.kompas.com/apps-os" class="nav__sublink" data-google-interstitial="false">Apps &amp; OS</a>                
+                    <a href="https://tekno.kompas.com/gadget" class="nav__sublink" data-google-interstitial="false">Gadget</a>                
+                    <a href="https://tekno.kompas.com/internet" class="nav__sublink" data-google-interstitial="false">Internet</a>                
+                    <a href="https://tekno.kompas.com/hardware" class="nav__sublink" data-google-interstitial="false">Hardware</a>                
+                    <a href="https://tekno.kompas.com/business" class="nav__sublink" data-google-interstitial="false">Business</a> 
+                </div>  
+                <div class="nav__subitem">
+                    <a href="https://tekno.kompas.com/game" class="nav__sublink" data-google-interstitial="false">Game</a>                
+                    <a href="https://tekno.kompas.com/galeri" class="nav__sublink" data-google-interstitial="false">Galeri</a>                
+                    <a href="https://indeks.kompas.com/?site=tekno" class="nav__sublink" data-google-interstitial="false">Indeks</a>                
+                    <a href="https://pubads.g.doubleclick.net/gampad/clk?id=6163907479&amp;iu=/31800665/KOMPAS.COM/tekno" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Tech Innovation</a>                
+                    <a href="https://kilasinternet.kompas.com/" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kilas Internet</a>            
+                </div>             
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="https://otomotif.kompas.com?source=navbar" class="nav__link nav__link--otomotif" data-google-interstitial="false">Otomotif</a>
+        <ul class="nav__sub nav__sub--otomotif">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="https://otomotif.kompas.com/news" class="nav__sublink" data-google-interstitial="false">News</a>
+                    <a href="https://otomotif.kompas.com/mobil" class="nav__sublink" data-google-interstitial="false">Mobil</a>     
+                    <a href="https://otomotif.kompas.com/motor" class="nav__sublink" data-google-interstitial="false">Motor</a>            
+                    <a href="https://otomotif.kompas.com/sport" class="nav__sublink" data-google-interstitial="false">Sport</a>
+                    <a href="https://otomotif.kompas.com/feature" class="nav__sublink" data-google-interstitial="false">Feature</a>            
+                    <a href="https://otomotif.kompas.com/niaga" class="nav__sublink" data-google-interstitial="false">Niaga</a>            
+                    <a href="https://otomotif.kompas.com/komunitas" class="nav__sublink" data-google-interstitial="false">Komunitas</a>            
+                </div>
+                <div class="nav__subitem">
+                    <a href="https://otomotif.kompas.com/otopedia" class="nav__sublink" data-google-interstitial="false">Otopedia</a>
+                    <a href="https://otomotif.kompas.com/galeri" class="nav__sublink" data-google-interstitial="false">Galeri</a>    
+                    <a href="https://indeks.kompas.com/?site=otomotif" class="nav__sublink" data-google-interstitial="false">Indeks</a>    
+                    <a href="https://otomotif.kompas.com/merapah" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Merapah</a>            
+                    <a href="https://otomotif.kompas.com/ev-leadership" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">EV Leadership</a>            
+                    <a href="https://otomotif.kompas.com/elektrifikasi" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Elektrifikasi</a>            
+                    <a href="https://lipsus.kompas.com/pameranotomotifnasional2025" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Pameran</a>        
+                </div>
+            </li>            
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="https://bola.kompas.com?source=navbar" class="nav__link nav__link--bola" data-google-interstitial="false">Bola</a>
+        <ul class="nav__sub nav__sub--bola">
+
+            <li class="nav__subwrap">
+                <div class="nav__subitem"> 
+                    <a href="https://bola.kompas.com/timnas-indonesia" class="nav__sublink" data-google-interstitial="false">Timnas Indonesia</a>
+                    <a href="https://bola.kompas.com/liga-indonesia" class="nav__sublink" data-google-interstitial="false">Liga Indonesia</a>
+                    <a href="https://bola.kompas.com/liga-inggris" class="nav__sublink" data-google-interstitial="false">Liga Inggris</a>
+                    <a href="https://bola.kompas.com/liga-italia" class="nav__sublink" data-google-interstitial="false">Liga Italia</a>
+                    <a href="https://bola.kompas.com/liga-champions" class="nav__sublink" data-google-interstitial="false">Liga Champions</a>
+                    <a href="https://bola.kompas.com/internasional" class="nav__sublink" data-google-interstitial="false">Internasional</a>
+                </div>
+                <div class="nav__subitem"> 
+                    <a href="https://bola.kompas.com/liga-lain" class="nav__sublink" data-google-interstitial="false">Liga Lain</a>
+                    <a href="https://bola.kompas.com/klasemen" class="nav__sublink" data-google-interstitial="false">Klasemen</a>
+                    <a href="https://www.kompas.com/sports" class="nav__sublink" data-google-interstitial="false">Sports</a>
+                    <a href="https://www.kompas.com/motogp" class="nav__sublink" data-google-interstitial="false">Motogp</a>
+                    <a href="https://www.kompas.com/badminton" class="nav__sublink" data-google-interstitial="false">Badminton</a>
+                    <a href="https://indeks.kompas.com?site=bola" class="nav__sublink" data-google-interstitial="false">Indeks</a>
+                </div>
+            </li>
+
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="https://lifestyle.kompas.com?source=navbar" class="nav__link nav__link--lifestyle" data-google-interstitial="false">Lifestyle</a>
+        <ul class="nav__sub nav__sub--lifestyle">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="https://lifestyle.kompas.com/wellness" class="nav__sublink" data-google-interstitial="false">Wellness</a>            
+                    <a href="https://lifestyle.kompas.com/fashion" class="nav__sublink" data-google-interstitial="false">Fashion</a>            
+                    <a href="https://lifestyle.kompas.com/relationship" class="nav__sublink" data-google-interstitial="false">Relationship</a>            
+                    <a href="https://lifestyle.kompas.com/parenting" class="nav__sublink" data-google-interstitial="false">Parenting</a>            
+                    <a href="https://lifestyle.kompas.com/beauty" class="nav__sublink" data-google-interstitial="false">Beauty &amp; Grooming</a>            
+                </div>
+                <div class="nav__subitem">
+                    <a href="https://buku.kompas.com" class="nav__sublink" data-google-interstitial="false">Buku</a>       
+                    <a href="https://indeks.kompas.com/?site=lifestyle" class="nav__sublink" data-google-interstitial="false">Indeks</a>       
+                    <a href="https://genbest.kompas.com" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Sadar Stunting</a>            
+                    <a href="https://kilaslifestyle.kompas.com" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kilas Lifestyle</a>            
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="https://www.kompas.com/tren?source=navbar" class="nav__link nav__link--tren" data-google-interstitial="false">Tren</a>
+    </li>
+    <li class="nav__item">
+        <a href="https://lestari.kompas.com?source=navbar" class="nav__link nav__link--lestari" data-google-interstitial="false">Lestari<ul id="lestariMenu" class="nav__sub nav__sub--lestari navSub">
+    <li class="navSub-col --col1">
+        <ul class="navSub-inner">
+                <li><a href="https://lestari.kompas.com/pemerintah" data-google-interstitial="false">Pemerintah</a></li>
+                <li><a href="https://lestari.kompas.com/swasta" data-google-interstitial="false">Swasta</a></li>
+                <li><a href="https://lestari.kompas.com/lsm-figur" data-google-interstitial="false">LSM/Figur</a></li>
+                <li><a href="https://lestari.kompas.com/bumn" data-google-interstitial="false">BUMN</a></li>
+                <li><a href="https://umkm.kompas.com" data-google-interstitial="false">UMKM</a></li>
+                <li><a href="https://lestari.kompas.com/nusatirta" class="nav__sublink--hot" data-google-interstitial="false">Nusatirta</a></li>
+                <li><a href="https://lestari.kompas.com/mulai-dari-kamu" class="nav__sublink--hot" data-google-interstitial="false">Mulai Dari Kamu</a></li>
+        </ul>
+    </li>
+    <li class="navSub-col --col2">
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="https://lestari.kompas.com/category/kesehatan" data-google-interstitial="false">Kesehatan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="https://lestari.kompas.com/tujuan/kehidupan-sehat-dan-sejahtera" data-google-interstitial="false">Kehidupan sehat dan sejahtera</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/air-bersih-dan-sanitasi-layak" data-google-interstitial="false">Air bersih dan sanitasi layak</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="https://lestari.kompas.com/category/pendidikan" data-google-interstitial="false">Pendidikan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="https://lestari.kompas.com/tujuan/pendidikan-berkualitas" data-google-interstitial="false">Pendidikan Berkualitas</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="https://lestari.kompas.com/category/lingkungan" data-google-interstitial="false">Lingkungan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="https://lestari.kompas.com/tujuan/energi-bersih-dan-terjangkau" data-google-interstitial="false">Energi Bersih dan Terjangkau</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/penanganan-perubahan-iklim" data-google-interstitial="false">Penanganan Perubahan Iklim</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/ekosistem-lautan" data-google-interstitial="false">Ekosistem Lautan</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/ekosistem-daratan" data-google-interstitial="false">Ekosistem Daratan</a></li>
+            </ul>
+        </div>
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="https://lestari.kompas.com/category/ekonomi-dan-umkm" data-google-interstitial="false">Ekonomi dan UMKM</a></div>
+            <ul class="navSub-inner">
+                <li><a href="https://lestari.kompas.com/tujuan/tanpa-kemiskinan" data-google-interstitial="false">Tanpa Kemiskinan</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/tanpa-kelaparan" data-google-interstitial="false">Tanpa Kelaparan</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/kesetaraan-gender" data-google-interstitial="false">Kesetaraan Gender</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/pekerjaan-layak-dan-pertumbuhan-ekonomi" data-google-interstitial="false">Pekerjaan Layak dan Pertumbuhan ekonomi</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/industri-inovasi-dan-infrastruktur" data-google-interstitial="false">Industri, Inovasi &amp; Infrastruktur</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/berkurangnya-kesenjangan" data-google-interstitial="false">Berkurangnya Kesenjangan</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/kota-dan-pemukiman-yang-berkelanjutan" data-google-interstitial="false">Kota &amp; Pemukiman yang Berkelanjutan</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/konsumsi-dan-produksi-yang-bertanggungjawab" data-google-interstitial="false">Konsumsi &amp; Produksi yang bertanggungjawab</a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="navSub-col --col3">
+        <div class="navSub-label">PROGRAM LESTARI</div>
+        <ul class="navSub-inner">
+            <li>
+                <a href="https://lestari.kompas.com/program/cantikpreneurship" class="navLestariProgram" data-google-interstitial="false">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jagoan-lokal.png" alt="Cantikpreneurship">
+                </a>
+            </li>
+            <li>
+                <a href="https://lestari.kompas.com/program/jernihkan-bumi" class="navLestariProgram" data-google-interstitial="false">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-bumi.png" alt="Jernihkan Bumi">
+                </a>
+            </li>
+            <li>
+                <a href="https://lestari.kompas.com/program/jernihkan-harapan" class="navLestariProgram" data-google-interstitial="false">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-harapan.png" alt="Jernihkan Harapan">
+                </a>
+            </li>
+            <li>
+                <a href="https://lestari.kompas.com/program/festival-ceban" class="navLestariProgram" data-google-interstitial="false">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-festival-ceban.png" alt="Festival Ceban">
+                </a>
+            </li>
+            <li>
+                <a href="https://lestari.kompas.com/program/jurnalisme-berkebangsaan" class="navLestariProgram" data-google-interstitial="false"> 
+                    <img src="https://asset.kompas.com/data/2023/06/07/kompascom/desktop/lestari/images/logo_gate_jurnalisme.png" alt="Jurnalisme Berkebangsaan">
+                </a>
+            </li>
+            <li>
+                <a href="https://lestari.kompas.com/program/generasi-bangkit" class="navLestariProgram" data-google-interstitial="false"> 
+                    <img src="https://asset.kompas.com/data/2023/06/22/kompascom/mobile/lestari/images/logo-generasibangkit.svg?v=1" alt="Generasi Bangkit">
+                </a>
+            </li>
+        </ul>
+        <a class="navSub-more" href="https://lestari.kompas.com/program" data-google-interstitial="false">Lihat semua</a>
+    </li>
+</ul></a>
+    </li>
+    <li class="nav__item">
+        <a href="https://health.kompas.com?source=navbar" class="nav__link nav__link--health" data-google-interstitial="false">Health</a>
+        <ul class="nav__sub nav__sub--health">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="https://health.kompas.com/penyakit" class="nav__sublink" data-google-interstitial="false">Penyakit A-Z</a>
+                </div>
+            </li>
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="https://kilaskesehatan.kompas.com" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kilas Kesehatan</a>
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="https://money.kompas.com/?source=navbar" class="nav__link nav__link--money" data-google-interstitial="false">Money</a>
+        <ul class="nav__sub nav__sub--money">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="https://money.kompas.com/ekbis" class="nav__sublink" data-google-interstitial="false">Ekbis</a>
+                    <a href="https://money.kompas.com/keuangan" class="nav__sublink" data-google-interstitial="false">Keuangan</a>        
+                    <a href="https://money.kompas.com/syariah" class="nav__sublink" data-google-interstitial="false">Syariah</a>        
+                    <a href="https://money.kompas.com/industri" class="nav__sublink" data-google-interstitial="false">Industri</a>        
+                    <a href="https://money.kompas.com/energi" class="nav__sublink" data-google-interstitial="false">Energi</a>        
+                    <a href="https://money.kompas.com/karier" class="nav__sublink" data-google-interstitial="false">Karier</a>        
+                    <a href="https://money.kompas.com/cuan" class="nav__sublink" data-google-interstitial="false">Cuan</a>        
+                    <a href="https://money.kompas.com/belanja" class="nav__sublink" data-google-interstitial="false">Belanja</a>        
+                </div>
+                <div class="nav__subitem">
+                    <a href="https://kolom.kompas.com/Tanya.Pajak" class="nav__sublink" data-google-interstitial="false">Tanya Pajak</a>        
+                    <a href="https://indeks.kompas.com?site=money" class="nav__sublink" data-google-interstitial="false">Indeks</a>        
+                    <a href="https://kilasbadan.kompas.com/" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kilas Badan</a>        
+                    <a href="https://kilastransportasi.kompas.com/" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kilas Transportasi</a>        
+                    <a href="https://kilasfintech.kompas.com/" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kilas Fintech</a>        
+                    <a href="https://kilasperbankan.kompas.com/" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kilas Perbankan</a>        
+                    <a href="https://kilasinvestasi.kompas.com/" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kilas Investasi</a>   
+                    <a href="https://indeks.kompas.com/topik-pilihan/list/9076/bukan-dompet-biasa" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Transaksi Digital
+                    </a><a href="https://www.kompas.com/topik-pilihan/list/9635/jejak-umkm" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Jejak UMKM
+                    </a>   
+                </div>
+            </li>        
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="https://properti.kompas.com/?source=navbar" class="nav__link nav__link--properti" data-google-interstitial="false">Properti</a>
+        <ul class="nav__sub nav__sub--properti">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="https://www.kompas.com/properti" class="nav__sublink" data-google-interstitial="false">News</a>
+                    <a href="https://properti.kompas.com/listing-properti" class="nav__sublink" data-google-interstitial="false">Listing Properti</a>
+                    <a href="https://properti.kompas.com/arsitektur" class="nav__sublink" data-google-interstitial="false">Arsitektur</a>
+                    <a href="https://properti.kompas.com/konstruksi" class="nav__sublink" data-google-interstitial="false">Konstruksi</a>
+                    <a href="https://properti.kompas.com/tips-properti" class="nav__sublink" data-google-interstitial="false">Tips Properti</a>
+                </div>
+                <div class="nav__subitem">
+                    <a href="https://ikn.kompas.com/" class="nav__sublink" data-google-interstitial="false">IKN</a>
+                    <a href="https://www.kompas.com/homey" class="nav__sublink" data-google-interstitial="false">Homey</a>
+                    <a href="https://indeks.kompas.com/?site=properti" class="nav__sublink" data-google-interstitial="false">Indeks</a>
+                    <a href="https://sorot.kompas.com" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Sorot Properti</a>
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="https://edukasi.kompas.com/?source=navbar" class="nav__link nav__link--edukasi" data-google-interstitial="false">Edukasi</a>
+        <ul class="nav__sub nav__sub--edukasi">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="https://edukasi.kompas.com/sekolah" class="nav__sublink" data-google-interstitial="false">Sekolah</a>            
+                    <a href="https://www.kompas.com/edu" class="nav__sublink" data-google-interstitial="false">Edu News</a>            
+                    <a href="https://edukasi.kompas.com/perguruan-tinggi" class="nav__sublink" data-google-interstitial="false">Perguruan Tinggi</a>            
+                    <a href="https://edukasi.kompas.com/pendidikan-khusus" class="nav__sublink" data-google-interstitial="false">Pendidikan Khusus</a>            
+                    <a href="https://edukasi.kompas.com/beasiswa" class="nav__sublink" data-google-interstitial="false">Beasiswa</a>            
+                </div>
+                <div class="nav__subitem">
+                    <a href="https://edukasi.kompas.com/literasi" class="nav__sublink" data-google-interstitial="false">Literasi</a>            
+                    <a href="https://www.kompas.com/skola" class="nav__sublink" data-google-interstitial="false">Skola</a>            
+                    <a href="https://kilaspendidikan.kompas.com" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Kilas Pendidikan</a>        
+                    <a href="https://edukasi.kompas.com/ideaksi" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">IdeAksi</a>        
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="https://travel.kompas.com/?source=navbar" class="nav__link nav__link--travel" data-google-interstitial="false">Travel</a>
+        <ul class="nav__sub nav__sub--travel">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="https://travel.kompas.com/travel-news" class="nav__sublink" data-google-interstitial="false">Travel News</a>
+                    <a href="https://travel.kompas.com/travel-ideas" class="nav__sublink" data-google-interstitial="false">Travel Ideas</a>
+                    <a href="https://travel.kompas.com/hotel-story" class="nav__sublink" data-google-interstitial="false">Hotel Story</a>
+                    <a href="https://travel.kompas.com/travelpedia" class="nav__sublink" data-google-interstitial="false">Travelpedia</a>
+                </div>
+                <div class="nav__subitem">
+                    <a href="https://www.kompas.com/food" class="nav__sublink" data-google-interstitial="false">Food</a>
+                    <a href="https://ohayojepang.kompas.com" class="nav__sublink" data-google-interstitial="false">Ohayo Jepang</a>
+                    <a href="https://indeks.kompas.com/?site=travel" class="nav__sublink" data-google-interstitial="false">Indeks</a>
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li class="nav__item">
+        <a href="#" class="nav__link nav__link--lainnya" data-google-interstitial="false"><span class="icoBase icoInline icoBurger" aria-label="Lainnya" title="Lainnya"></span></a>
+        <ul class="nav__sub nav__sub--lainnya">
+            <li class="nav__subwrap">
+                <div class="nav__subitem">
+                    <a href="https://video.kompas.com?source=navbar" class="nav__sublink" data-google-interstitial="false">Video</a>
+                    <a href="https://www.kompas.com/parapuan?source=navbar" class="nav__sublink" data-google-interstitial="false">Parapuan</a>
+                    <a href="https://kolom.kompas.com/?source=navbar" class="nav__sublink" data-google-interstitial="false">Kolom</a>
+                    <a href="https://www.kompas.com/sains?source=navbar" class="nav__sublink" data-google-interstitial="false">Sains</a>
+                                            <a href="https://jeo.kompas.com/?source=navbar" class="nav__sublink">JEO</a>
+                                    </div>
+                <div class="nav__subitem">
+                                        <a href="https://foto.kompas.com/photo?source=navbar" class="nav__sublink" data-google-interstitial="false">Foto</a>
+                    <a href="https://vik.kompas.com/?source=navbar" class="nav__sublink">VIK</a>
+                    <a href="https://katanetizen.kompas.com/?source=navbar" class="nav__sublink" data-google-interstitial="false">Kata Netizen</a>
+                    <a href="https://jagatliterasi.kompas.com/?source=navbar" class="nav__sublink" data-google-interstitial="false">Jagat Literasi</a>
+                    <a href="https://warta.kompas.com/?source=navbar" class="nav__sublink nav__sublink--hot" data-google-interstitial="false">Warta</a>
+                </div>
+            </li>
+        </ul>
+    </li>
+</ul>
+
+<a href="https://plus.kompas.com/detail?source=top_menubar" class="menu-plus-sticky" data-google-interstitial="false">Membership KOMPAS.com+</a>
+
+
+
+<!-- css sublink nav -->
+<link rel="stylesheet" href="https://asset.kompas.com/data/2025/nusatirta/desktop/css/submenu-nusatirta.css">
+
+<ul id="lestariMenu" class="nav__sub nav__sub--lestari navSub">
+    <li class="navSub-col --col1">
+        <ul class="navSub-inner">
+                <li><a href="https://lestari.kompas.com/pemerintah" data-google-interstitial="false">Pemerintah</a></li>
+                <li><a href="https://lestari.kompas.com/swasta" data-google-interstitial="false">Swasta</a></li>
+                <li><a href="https://lestari.kompas.com/lsm-figur" data-google-interstitial="false">LSM/Figur</a></li>
+                <li><a href="https://lestari.kompas.com/bumn" data-google-interstitial="false">BUMN</a></li>
+                <li><a href="https://umkm.kompas.com" data-google-interstitial="false">UMKM</a></li>
+                <li><a href="https://lestari.kompas.com/nusatirta" class="nav__sublink--hot" data-google-interstitial="false">Nusatirta</a></li>
+                <li><a href="https://lestari.kompas.com/mulai-dari-kamu" class="nav__sublink--hot" data-google-interstitial="false">Mulai Dari Kamu</a></li>
+        </ul>
+    </li>
+    <li class="navSub-col --col2">
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="https://lestari.kompas.com/category/kesehatan" data-google-interstitial="false">Kesehatan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="https://lestari.kompas.com/tujuan/kehidupan-sehat-dan-sejahtera" data-google-interstitial="false">Kehidupan sehat dan sejahtera</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/air-bersih-dan-sanitasi-layak" data-google-interstitial="false">Air bersih dan sanitasi layak</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="https://lestari.kompas.com/category/pendidikan" data-google-interstitial="false">Pendidikan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="https://lestari.kompas.com/tujuan/pendidikan-berkualitas" data-google-interstitial="false">Pendidikan Berkualitas</a></li>
+            </ul>
+            <div class="navSub-grup"><a href="https://lestari.kompas.com/category/lingkungan" data-google-interstitial="false">Lingkungan</a></div>
+            <ul class="navSub-inner">
+                <li><a href="https://lestari.kompas.com/tujuan/energi-bersih-dan-terjangkau" data-google-interstitial="false">Energi Bersih dan Terjangkau</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/penanganan-perubahan-iklim" data-google-interstitial="false">Penanganan Perubahan Iklim</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/ekosistem-lautan" data-google-interstitial="false">Ekosistem Lautan</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/ekosistem-daratan" data-google-interstitial="false">Ekosistem Daratan</a></li>
+            </ul>
+        </div>
+        <div class="navSub-subcol --subcol">
+            <div class="navSub-grup"><a href="https://lestari.kompas.com/category/ekonomi-dan-umkm" data-google-interstitial="false">Ekonomi dan UMKM</a></div>
+            <ul class="navSub-inner">
+                <li><a href="https://lestari.kompas.com/tujuan/tanpa-kemiskinan" data-google-interstitial="false">Tanpa Kemiskinan</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/tanpa-kelaparan" data-google-interstitial="false">Tanpa Kelaparan</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/kesetaraan-gender" data-google-interstitial="false">Kesetaraan Gender</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/pekerjaan-layak-dan-pertumbuhan-ekonomi" data-google-interstitial="false">Pekerjaan Layak dan Pertumbuhan ekonomi</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/industri-inovasi-dan-infrastruktur" data-google-interstitial="false">Industri, Inovasi &amp; Infrastruktur</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/berkurangnya-kesenjangan" data-google-interstitial="false">Berkurangnya Kesenjangan</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/kota-dan-pemukiman-yang-berkelanjutan" data-google-interstitial="false">Kota &amp; Pemukiman yang Berkelanjutan</a></li>
+                <li><a href="https://lestari.kompas.com/tujuan/konsumsi-dan-produksi-yang-bertanggungjawab" data-google-interstitial="false">Konsumsi &amp; Produksi yang bertanggungjawab</a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="navSub-col --col3">
+        <div class="navSub-label">PROGRAM LESTARI</div>
+        <ul class="navSub-inner">
+            <li>
+                <a href="https://lestari.kompas.com/program/cantikpreneurship" class="navLestariProgram" data-google-interstitial="false">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jagoan-lokal.png" alt="Cantikpreneurship">
+                </a>
+            </li>
+            <li>
+                <a href="https://lestari.kompas.com/program/jernihkan-bumi" class="navLestariProgram" data-google-interstitial="false">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-bumi.png" alt="Jernihkan Bumi">
+                </a>
+            </li>
+            <li>
+                <a href="https://lestari.kompas.com/program/jernihkan-harapan" class="navLestariProgram" data-google-interstitial="false">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-jernihkan-harapan.png" alt="Jernihkan Harapan">
+                </a>
+            </li>
+            <li>
+                <a href="https://lestari.kompas.com/program/festival-ceban" class="navLestariProgram" data-google-interstitial="false">
+                    <img src="https://asset.kompas.com/data/2023/02/2109/kompascom/desktop/images/lestari/logo-festival-ceban.png" alt="Festival Ceban">
+                </a>
+            </li>
+            <li>
+                <a href="https://lestari.kompas.com/program/jurnalisme-berkebangsaan" class="navLestariProgram" data-google-interstitial="false"> 
+                    <img src="https://asset.kompas.com/data/2023/06/07/kompascom/desktop/lestari/images/logo_gate_jurnalisme.png" alt="Jurnalisme Berkebangsaan">
+                </a>
+            </li>
+            <li>
+                <a href="https://lestari.kompas.com/program/generasi-bangkit" class="navLestariProgram" data-google-interstitial="false"> 
+                    <img src="https://asset.kompas.com/data/2023/06/22/kompascom/mobile/lestari/images/logo-generasibangkit.svg?v=1" alt="Generasi Bangkit">
+                </a>
+            </li>
+        </ul>
+        <a class="navSub-more" href="https://lestari.kompas.com/program" data-google-interstitial="false">Lihat semua</a>
+    </li>
+</ul>
+  
+        </div>
+        <!-- share-->
+            </div>
+</div>
+
+            <div class="kanalHeader" data-kanal="tekno">
+        	<div class="container">
+        		<div class="kanalHeader-wrap">
+        			<div class="kanalLogo">
+                        <a href="https://tekno.kompas.com/" data-google-interstitial="false">
+                            <span>Tekno</span>
+                        </a>
+        			</div>        
+                    <div class="kanalMenu">
+                        <ul>
+                            <li><a href="https://tekno.kompas.com/apps-os" class="" data-google-interstitial="false">Apps &amp; OS</a></li>
+                            <li><a href="https://tekno.kompas.com/gadget" class="active" data-google-interstitial="false">Gadget</a></li>
+                            <li><a href="https://tekno.kompas.com/internet" class="" data-google-interstitial="false">Internet</a></li>
+                            <li><a href="https://tekno.kompas.com/hardware" class="" data-google-interstitial="false">Hardware</a></li>
+                            <li><a href="https://tekno.kompas.com/business" class="" data-google-interstitial="false">Business</a></li>
+                            <li><a href="https://tekno.kompas.com/game" class="" data-google-interstitial="false">Game</a></li>
+                            <li><a href="https://tekno.kompas.com/galeri" class="" data-google-interstitial="false">Galeri</a></li>
+                            <li><a href="https://indeks.kompas.com/?site=tekno" class="" data-google-interstitial="false">Indeks</a></li>
+                            <li><a href="https://pubads.g.doubleclick.net/gampad/clk?id=6163907479&amp;iu=/31800665/KOMPAS.COM/tekno" class=" subkanal--ad" data-google-interstitial="false">Tech Innovation</a></li>
+                            <li><a href="https://kilasinternet.kompas.com/" class=" subkanal--ad" data-google-interstitial="false">Kilas Internet</a></li>
+                        </ul>
+                    </div>       
+        		</div>
+        	</div>
+        </div>
+    
+
+
+<script src="https://asset.kompas.com/data/2023/11/03/darkmode/js/dark-mode.min.js"></script>
+
+
+    <!-- (ads.skin) -->  
+    
+    <!-- container-->
+    <div class="container clearfix">
+        
+        <div class="row mt2 col-offset-fluid clearfix">
+    <div class="col-xs-10">
+        <div class="kcm kcm__top clearfix">
+            <div class="kcm__sticky__top">
+                <div id="div-gpt-ad-Top_1-1" data-google-query-id="CO-qkYXItJEDFRCIZgIdf8YMog">
+    
+<div id="google_ads_iframe_/31800665/KOMPAS.COM/tekno_0__container__" style="border: 0pt none; display: inline-block; width: 970px; height: 120px;"><iframe frameborder="0" src="https://55b782c5b1bbb645651e78ee7ca156e2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html" id="google_ads_iframe_/31800665/KOMPAS.COM/tekno_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="970" height="120" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="private-state-token-redemption;attribution-reporting" aria-label="Advertisement" tabindex="0" data-google-container-id="1" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div>
+
+<!-- DFP Vignette -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const links = document.querySelectorAll('a[href]');
+    
+    links.forEach(link => {
+        const href = link.getAttribute('href');
+        if (!href.includes('/read/') && !href.includes('/watch/') && !href.includes('vik.kompas.com/') && !href.includes('jeo.kompas.com/')) {
+            link.setAttribute('data-google-interstitial', 'false');
+        }
+    });
+});
+</script>
+<script>
+   if(document.cookie.indexOf('vignette_cookies=') == -1){
+        var getVignette = googletag.cmd.push(function() {
+            if (dinv !== null) {
+                dinv.addService(googletag.pubads());
+            }
+        });
+        // setcookie 1 jam
+        var d = new Date()
+        d.setTime(d.getTime() + 900 * 1000)
+        document.cookie = "vignette_cookies=1;expires=" + d.toUTCString() + ";domain=.kompas.com;path=/";document.cookie = "vignette_cookies_session=1"    
+    }
+</script>                    
+<!-- End DFP Vignette -->            </div>
+        </div>
+    </div>
+</div>
+
+
+        <div class="row mt2 text-center">
+<iframe src="https://widget.kompas.com/breaking?id=12" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: 0px; vertical-align: bottom; height: 200px; width: 100%"></iframe>
+</div>
+
+        
+        <!-- (ads.focus.update) -->
+        
+        <!-- tagging-->
+
+<!-- title channel-->
+<h2 class="row mt2 clearfix">
+<div class="title title--big clearfix">tekno   <!-- (ads.liga_1) --> </div>
+</h2>
+<!-- latest-->
+<div class="row mt3 col-offset-fluid clearfix">
+	<div class="col-bs10-7">
+	
+		<!-- terkini-->
+		<div class="title clearfix">
+			<h2 class="title__content">gadget</h2>
+			<!-- <div class="col-bs12-3 form__select__wrap pull-right" id="datepicker">
+				<input class="form__input" type="text" value="Pilih tanggal" readonly="readonly">
+				<input type="hidden" id="pathurl" name="pathurl" value="https://tekno.kompas.com/search">
+			</div> -->
+		</div>
+
+		<!-- list -->
+<div class="row article__wrap__grid--flex col-offset-fluid mt2">
+  <div class="col-bs9-6">
+  <div class="article__grid">
+        <div class="article__boxsubtitle ">
+      <div class="article__subtitle">Gadget</div>
+    </div>
+        <div class="article__asset">
+      <a href="https://tekno.kompas.com/read/2025/12/11/09340027/fitur-your-algorithm-instagram-sudah-ada-di-indonesia-pengguna-android-dan-ios"><img class="lozad" data-src="https://asset.kompas.com/crops/9VZjxQ5FhpKAceyLXBxVGbfthLU=/0x60:1280x914/483x327/data/photo/2025/12/11/693a08e8b00e2.jpeg" alt="Fitur 'Your Algorithm' Instagram Sudah Ada di Indonesia, Pengguna Android dan iOS Bisa Coba"></a>
+    </div>
+    <div class="article__box">
+      <h3 class="article__title"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/11/09340027/fitur-your-algorithm-instagram-sudah-ada-di-indonesia-pengguna-android-dan-ios">Fitur 'Your Algorithm' Instagram Sudah Ada di Indonesia, Pengguna Android dan iOS Bisa Coba</a></h3>
+      <div class="article__lead">Sebelumnya, fitur "Your Algorithm" Instagram baru diuji ke beberapa pengguna terbatas saja, khususnya pengguna iOS.</div>      <div class="article__date">11/12/2025, 09:34 WIB</div>
+    </div>
+  </div>
+</div><div class="col-bs9-3">
+  <div class="article__grid">
+        <div class="article__boxsubtitle ">
+      <div class="article__subtitle">Gadget</div>
+    </div>
+        <div class="article__asset">
+      <a href="https://tekno.kompas.com/read/2025/12/10/18090037/bukti-hp-flagship-poco-f8-pro-dan-f8-ultra-rilis-di-indonesia-segera"><img class="lozad" data-src="https://asset.kompas.com/crops/X_IVwA5WZd-UL0D2U2sNxuW4nDM=/0x162:4032x2850/226x153/data/photo/2025/11/27/6927f19798700.jpg" alt="Bukti HP Flagship Poco F8 Pro dan F8 Ultra Rilis di Indonesia Segera"></a>
+    </div>
+    <div class="article__box">
+      <h3 class="article__title"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/10/18090037/bukti-hp-flagship-poco-f8-pro-dan-f8-ultra-rilis-di-indonesia-segera">Bukti HP Flagship Poco F8 Pro dan F8 Ultra Rilis di Indonesia Segera</a></h3>
+      <div class="article__lead">HP flagship Poco F8 Pro dan F8 Ultra telah lolos sertifikasi TKDN Kemenperin. Artinya, tak lama lagi keduanya siap dijual di Indonesia.</div>      <div class="article__date">11/12/2025, 08:40 WIB</div>
+    </div>
+  </div>
+</div><div class="col-bs9-3">
+  <div class="article__grid">
+        <div class="article__boxsubtitle ">
+      <div class="article__subtitle">Gadget</div>
+    </div>
+        <div class="article__asset">
+      <a href="https://tekno.kompas.com/read/2025/12/11/07030097/samsung-galaxy-a16-jadi-hp-android-terlaris-di-dunia-kuartal-iii-2025"><img class="lozad" data-src="https://asset.kompas.com/crops/ascs98VqFB_f-2GMBRo8wfIDhGk=/289x50:1969x1170/226x153/data/photo/2024/11/20/673d73e061b02.jpg" alt="Samsung Galaxy A16 Jadi HP Android Terlaris di Dunia Kuartal III-2025"></a>
+    </div>
+    <div class="article__box">
+      <h3 class="article__title"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/11/07030097/samsung-galaxy-a16-jadi-hp-android-terlaris-di-dunia-kuartal-iii-2025">Samsung Galaxy A16 Jadi HP Android Terlaris di Dunia Kuartal III-2025</a></h3>
+      <div class="article__lead">Samsung Galaxy A16 5G meneruskan takhta pendahulunya, Galaxy A15 4G sebagai HP Android terlaris di dunia di periode yang sama tahun lalu.</div>      <div class="article__date">11/12/2025, 07:03 WIB</div>
+    </div>
+  </div>
+</div><div class="col-bs9-3">
+  <div class="article__grid">
+        <div class="article__boxsubtitle ">
+      <div class="article__subtitle">Gadget</div>
+    </div>
+        <div class="article__asset">
+      <a href="https://tekno.kompas.com/read/2025/12/10/08020057/ini-dia-jolla-phone-smartphone-linux-sejati-punya-fitur-privasi-tinggi"><img class="lozad" data-src="https://asset.kompas.com/crops/zRrc4mBgCwWXzR4pGQ0cxZFgIzg=/36x8:774x500/226x153/data/photo/2025/12/09/6937e7608ac2f.jpg" alt="Ini Dia Jolla Phone, Smartphone 'Linux Sejati' Punya Fitur Privasi Tinggi"></a>
+    </div>
+    <div class="article__box">
+      <h3 class="article__title"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/10/08020057/ini-dia-jolla-phone-smartphone-linux-sejati-punya-fitur-privasi-tinggi">Ini Dia Jolla Phone, Smartphone 'Linux Sejati' Punya Fitur Privasi Tinggi</a></h3>
+      <div class="article__lead">Jolla Phone menonjolkan privasi tinggi. Ponsel ini dijamin tanpa pelacakan, tanpa pengiriman data tersembunyi, serta dilengkapi tombol privasi fisik.</div>      <div class="article__date">11/12/2025, 06:40 WIB</div>
+    </div>
+  </div>
+</div><div class="col-bs9-3">
+  <div class="article__grid">
+        <div class="article__boxsubtitle ">
+      <div class="article__subtitle">Gadget</div>
+    </div>
+        <div class="article__asset">
+      <a href="https://tekno.kompas.com/read/2025/12/10/17080037/nothing-phone-3a-community-edition-resmi-hp-yang-dirancang-para-penggemar"><img class="lozad" data-src="https://asset.kompas.com/crops/Psxwsq58OwLMNzE-E1qVe2nm-Nk=/394x0:1555x774/226x153/data/photo/2025/12/10/6938d15d09d53.png" alt="Nothing Phone (3a) Community Edition Resmi, HP yang Dirancang Para Penggemar"></a>
+    </div>
+    <div class="article__box">
+      <h3 class="article__title"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/10/17080037/nothing-phone-3a-community-edition-resmi-hp-yang-dirancang-para-penggemar">Nothing Phone (3a) Community Edition Resmi, HP yang Dirancang Para Penggemar</a></h3>
+      <div class="article__lead">Nothing Phone (3a) Community Edition merupakan ponsel yang dirancangan oleh penggemar Nothing. Ponsel ini dijual terbatas.</div>      <div class="article__date">10/12/2025, 17:08 WIB</div>
+    </div>
+  </div>
+</div></div>		<div class="overlay-desktop">
+<div id="div-gpt-ad-605665684349116116-oop" data-google-query-id="CP-xjoXItJEDFRCIZgIdf8YMog">
+	<script type="text/javascript">
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-605665684349116116-oop'); });
+	</script>
+<div id="google_ads_iframe_/31800665/KOMPAS.COM/tekno_5__container__" style="border: 0pt none;"></div></div>
+<div id="div-gpt-adbro" style="display: none;" data-google-query-id="CICyjoXItJEDFRCIZgIdf8YMog">
+     <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-adbro'); });
+     </script>
+<div id="google_ads_iframe_/31800665/KOMPAS.COM/tekno_6__container__" style="border: 0pt none;"></div></div>
+</div> 
+
+		<!-- semua berita-->
+		<div class="title clearfix">
+			<div class="title__content">All News</div>
+		</div>
+		<div class="latest--news mt2 clearfix">
+			<div class="article__list clearfix">
+  <div class="article__list__asset clearfix">
+        <div class="article__asset"><a href="https://tekno.kompas.com/read/2025/12/10/15020097/xiaomi-rilis-mijia-washer-dryer-set-pro-mesin-cuci-pintar-dengan-sterilisasi" target="_parent"><img class="lozad" data-src="https://asset.kompas.com/crops/iifjZBOA1x6WrUVXxS2bBFb_LJs=/0x0:1080x720/177x117/data/photo/2025/12/10/6938c4ace1178.png" alt="Xiaomi Rilis Mijia Washer Dryer Set Pro, Mesin Cuci Pintar dengan Sterilisasi Tinggi"></a></div>
+  </div>
+  <div class="article__list__title">
+    <div class="article__title article__title--medium"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/10/15020097/xiaomi-rilis-mijia-washer-dryer-set-pro-mesin-cuci-pintar-dengan-sterilisasi" target="_parent">Xiaomi Rilis Mijia Washer Dryer Set Pro, Mesin Cuci Pintar dengan Sterilisasi Tinggi</a></div>
+  </div>
+  <div class="article__list__info">
+    <div class="article__subtitle article__subtitle--inline ">Gadget</div>
+    <div class="article__date">10/12/2025, 15:02 WIB</div>
+      </div>
+  <div class="clearfix"></div>
+</div>
+<div class="article__list clearfix">
+  <div class="article__list__asset clearfix">
+        <div class="article__asset"><a href="https://tekno.kompas.com/read/2025/12/10/13310097/hp-tecno-spark-40-resmi-di-indonesia-desain-ala-iphone-17-pro-max-harga-rp-1" target="_parent"><img class="lozad" data-src="https://asset.kompas.com/crops/fARJzfV6tGBNUfrjN3WCjPZyOpA=/0x95:1000x761/177x117/data/photo/2025/12/10/69390359a8e23.jpg" alt="HP Tecno Spark 40 Resmi di Indonesia, Desain ala iPhone 17 Pro Max Harga Rp 1 Jutaan"></a></div>
+  </div>
+  <div class="article__list__title">
+    <div class="article__title article__title--medium"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/10/13310097/hp-tecno-spark-40-resmi-di-indonesia-desain-ala-iphone-17-pro-max-harga-rp-1" target="_parent">HP Tecno Spark 40 Resmi di Indonesia, Desain ala iPhone 17 Pro Max Harga Rp 1 Jutaan</a></div>
+  </div>
+  <div class="article__list__info">
+    <div class="article__subtitle article__subtitle--inline ">Gadget</div>
+    <div class="article__date">10/12/2025, 13:31 WIB</div>
+      </div>
+  <div class="clearfix"></div>
+</div>
+<div class="article__list clearfix">
+  <div class="article__list__asset clearfix">
+        <div class="article__asset"><a href="https://tekno.kompas.com/read/2025/12/10/11030017/oppo-a6l-debut-di-china-bawa-baterai-jumbo-dan-tahan-kondisi-ekstrem" target="_parent"><img class="lozad" data-src="https://asset.kompas.com/crops/Ngg_YexFtrk-4Ofp4YoNprQtJCw=/0x0:1080x720/177x117/data/photo/2025/12/10/6938d3561741d.png" alt="Oppo A6L Debut di China, Bawa Baterai Jumbo dan Tahan Kondisi Ekstrem"></a></div>
+  </div>
+  <div class="article__list__title">
+    <div class="article__title article__title--medium"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/10/11030017/oppo-a6l-debut-di-china-bawa-baterai-jumbo-dan-tahan-kondisi-ekstrem" target="_parent">Oppo A6L Debut di China, Bawa Baterai Jumbo dan Tahan Kondisi Ekstrem</a></div>
+  </div>
+  <div class="article__list__info">
+    <div class="article__subtitle article__subtitle--inline ">Gadget</div>
+    <div class="article__date">10/12/2025, 11:03 WIB</div>
+      </div>
+  <div class="clearfix"></div>
+</div>
+<div class="article__list clearfix">
+  <div class="article__list__asset clearfix">
+        <div class="article__asset"><a href="https://tekno.kompas.com/read/2025/12/10/07010017/jepang-perkenalkan-mesin-cuci-manusia-kapsul-pembersih-tubuh-15-menit" target="_parent"><img class="lozad" data-src="https://asset.kompas.com/crops/DwKXakaWyv8fuTLLIqw10MJU7g4=/67x0:1379x875/177x117/data/photo/2025/12/09/6937cec09c1ee.jpg" alt="Jepang Perkenalkan 'Mesin Cuci Manusia', Kapsul Pembersih Tubuh 15 Menit"></a></div>
+  </div>
+  <div class="article__list__title">
+    <div class="article__title article__title--medium"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/10/07010017/jepang-perkenalkan-mesin-cuci-manusia-kapsul-pembersih-tubuh-15-menit" target="_parent">Jepang Perkenalkan "Mesin Cuci Manusia", Kapsul Pembersih Tubuh 15 Menit</a></div>
+  </div>
+  <div class="article__list__info">
+    <div class="article__subtitle article__subtitle--inline ">Gadget</div>
+    <div class="article__date">10/12/2025, 07:01 WIB</div>
+      </div>
+  <div class="clearfix"></div>
+</div>
+<div class="article__list clearfix">
+  <div class="article__list__asset clearfix">
+        <div class="article__asset"><a href="https://tekno.kompas.com/read/2025/12/09/15350027/update-harga-samsung-galaxy-a07-per-desember-di-indonesia" target="_parent"><img class="lozad" data-src="https://asset.kompas.com/crops/8TNgDqW_lOGaY-Q4KaM0UoOdt7Q=/400x433:3600x2567/177x117/data/photo/2025/08/26/68ad4586b9267.jpeg" alt="Update Harga Samsung Galaxy A07 per Desember di Indonesia"></a></div>
+  </div>
+  <div class="article__list__title">
+    <div class="article__title article__title--medium"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/09/15350027/update-harga-samsung-galaxy-a07-per-desember-di-indonesia" target="_parent">Update Harga Samsung Galaxy A07 per Desember di Indonesia</a></div>
+  </div>
+  <div class="article__list__info">
+    <div class="article__subtitle article__subtitle--inline ">Gadget</div>
+    <div class="article__date">09/12/2025, 15:35 WIB</div>
+      </div>
+  <div class="clearfix"></div>
+</div>
+<!-- (ads.native) --><div class="article__list clearfix">
+  <div class="article__list__asset clearfix">
+        <div class="article__asset"><a href="https://tekno.kompas.com/read/2025/12/09/09380057/hp-honor-magic-8-lite-resmi-dengan-baterai-7.500-mah" target="_parent"><img class="lozad" data-src="https://asset.kompas.com/crops/tPC1Ypei09dagjFN6JjBReQ_CvI=/0x0:1080x720/177x117/data/photo/2025/12/09/69377e1476734.png" alt="HP Honor Magic 8 Lite Resmi dengan Baterai 7.500 MAh"></a></div>
+  </div>
+  <div class="article__list__title">
+    <div class="article__title article__title--medium"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/09/09380057/hp-honor-magic-8-lite-resmi-dengan-baterai-7.500-mah" target="_parent">HP Honor Magic 8 Lite Resmi dengan Baterai 7.500 MAh</a></div>
+  </div>
+  <div class="article__list__info">
+    <div class="article__subtitle article__subtitle--inline ">Gadget</div>
+    <div class="article__date">09/12/2025, 09:38 WIB</div>
+      </div>
+  <div class="clearfix"></div>
+</div>
+<div class="article__list clearfix">
+  <div class="article__list__asset clearfix">
+        <div class="article__asset"><a href="https://tekno.kompas.com/read/2025/12/08/19040057/harga-jual-kembali-iphone-air-paling-anjlok-dibanding-model-lain" target="_parent"><img class="lozad" data-src="https://asset.kompas.com/crops/5TjPl9JBYrIckHV73vvwSa60BTU=/0x26:980x679/177x117/data/photo/2025/09/10/68c158c9048f1.jpg" alt="Harga Jual Kembali iPhone Air Paling Anjlok Dibanding Model Lain"></a></div>
+  </div>
+  <div class="article__list__title">
+    <div class="article__title article__title--medium"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/08/19040057/harga-jual-kembali-iphone-air-paling-anjlok-dibanding-model-lain" target="_parent">Harga Jual Kembali iPhone Air Paling Anjlok Dibanding Model Lain</a></div>
+  </div>
+  <div class="article__list__info">
+    <div class="article__subtitle article__subtitle--inline ">Gadget</div>
+    <div class="article__date">08/12/2025, 19:04 WIB</div>
+      </div>
+  <div class="clearfix"></div>
+</div>
+<div class="article__list clearfix">
+  <div class="article__list__asset clearfix">
+        <div class="article__asset"><a href="https://tekno.kompas.com/read/2025/12/07/16350097/bedah-mitos-benarkah-ios-lebih-aman-dibanding-android" target="_parent"><img class="lozad" data-src="https://asset.kompas.com/crops/zNU6Gh67QO4pGUNgXJsElxxzSBo=/54x0:458x269/177x117/data/photo/2025/09/09/68bf9e6f1eaec.png" alt="Bedah Mitos, Benarkah iOS Lebih Aman Dibanding Android? "></a></div>
+  </div>
+  <div class="article__list__title">
+    <div class="article__title article__title--medium"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/07/16350097/bedah-mitos-benarkah-ios-lebih-aman-dibanding-android" target="_parent">Bedah Mitos, Benarkah iOS Lebih Aman Dibanding Android? </a></div>
+  </div>
+  <div class="article__list__info">
+    <div class="article__subtitle article__subtitle--inline ">Gadget</div>
+    <div class="article__date">08/12/2025, 09:29 WIB</div>
+      </div>
+  <div class="clearfix"></div>
+</div>
+<div class="article__list clearfix">
+  <div class="article__list__asset clearfix">
+        <div class="article__asset"><a href="https://tekno.kompas.com/read/2025/12/06/14290047/harga-iphone-13-dan-iphone-14-terbaru-desember-mulai-rp-8-jutaan" target="_parent"><img class="lozad" data-src="https://asset.kompas.com/crops/tS36DuGoNNGxbMHVNF2RmiFy1Uc=/379x261:1780x1195/177x117/data/photo/2024/08/28/66ceabcee22a2.png" alt="Harga iPhone 13 dan iPhone 14 Terbaru Desember, mulai Rp 8 Jutaan"></a></div>
+  </div>
+  <div class="article__list__title">
+    <div class="article__title article__title--medium"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/06/14290047/harga-iphone-13-dan-iphone-14-terbaru-desember-mulai-rp-8-jutaan" target="_parent">Harga iPhone 13 dan iPhone 14 Terbaru Desember, mulai Rp 8 Jutaan</a></div>
+  </div>
+  <div class="article__list__info">
+    <div class="article__subtitle article__subtitle--inline ">Gadget</div>
+    <div class="article__date">08/12/2025, 08:48 WIB</div>
+      </div>
+  <div class="clearfix"></div>
+</div>
+<div class="article__list clearfix">
+  <div class="article__list__asset clearfix">
+        <div class="article__asset"><a href="https://tekno.kompas.com/read/2025/12/07/13333237/harga-terbaru-samsung-a07-di-akhir-2025-turun-atau-tetap" target="_parent"><img class="lozad" data-src="https://asset.kompas.com/crops/GOVcgfnt3dxNZl83p1-w4V3j0Ns=/0x271:4000x2938/177x117/data/photo/2025/08/26/68ad458c921be.jpeg" alt="Harga Terbaru Samsung A07 di Akhir 2025, Turun atau Tetap?"></a></div>
+  </div>
+  <div class="article__list__title">
+    <div class="article__title article__title--medium"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/07/13333237/harga-terbaru-samsung-a07-di-akhir-2025-turun-atau-tetap" target="_parent">Harga Terbaru Samsung A07 di Akhir 2025, Turun atau Tetap?</a></div>
+  </div>
+  <div class="article__list__info">
+    <div class="article__subtitle article__subtitle--inline ">Gadget</div>
+    <div class="article__date">07/12/2025, 13:33 WIB</div>
+      </div>
+  <div class="clearfix"></div>
+</div>
+<div class="article__list clearfix">
+  <div class="article__list__asset clearfix">
+        <div class="article__asset"><a href="https://tekno.kompas.com/read/2025/12/07/09090067/rilis-2021-apakah-iphone-13-masih-layak-dibeli-di-tahun-2025-" target="_parent"><img class="lozad" data-src="https://asset.kompas.com/crops/BG3-VjfOX0nlTAViFyaLBhu-jbQ=/100x85:859x591/177x117/data/photo/2024/07/18/66987a9d56af8.png" alt="Rilis 2021, Apakah iPhone 13 Masih Layak Dibeli di Tahun 2025?"></a></div>
+  </div>
+  <div class="article__list__title">
+    <div class="article__title article__title--medium"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/07/09090067/rilis-2021-apakah-iphone-13-masih-layak-dibeli-di-tahun-2025-" target="_parent">Rilis 2021, Apakah iPhone 13 Masih Layak Dibeli di Tahun 2025?</a></div>
+  </div>
+  <div class="article__list__info">
+    <div class="article__subtitle article__subtitle--inline ">Gadget</div>
+    <div class="article__date">07/12/2025, 09:09 WIB</div>
+      </div>
+  <div class="clearfix"></div>
+</div>
+<div class="article__list clearfix">
+  <div class="article__list__asset clearfix">
+        <div class="article__asset"><a href="https://tekno.kompas.com/read/2025/12/07/08000087/penampakan-xiaomi-17-ultra-tertangkap-kamera" target="_parent"><img class="lozad" data-src="https://asset.kompas.com/crops/igYp68AvGdX5A5DOAIqEShB4gog=/0x0:1080x720/177x117/data/photo/2025/09/26/68d5dbea8e103.png" alt="Penampakan Xiaomi 17 Ultra Tertangkap Kamera"></a></div>
+  </div>
+  <div class="article__list__title">
+    <div class="article__title article__title--medium"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/07/08000087/penampakan-xiaomi-17-ultra-tertangkap-kamera" target="_parent">Penampakan Xiaomi 17 Ultra Tertangkap Kamera</a></div>
+  </div>
+  <div class="article__list__info">
+    <div class="article__subtitle article__subtitle--inline ">Gadget</div>
+    <div class="article__date">07/12/2025, 08:00 WIB</div>
+      </div>
+  <div class="clearfix"></div>
+</div>
+<div class="article__list clearfix">
+  <div class="article__list__asset clearfix">
+        <div class="article__asset"><a href="https://tekno.kompas.com/read/2025/12/06/15330027/nubia-rilis-hp-tahan-banting-lolos-standar-militer-dan-anti-air" target="_parent"><img class="lozad" data-src="https://asset.kompas.com/crops/GjiE9f2Cdn8x6YehJNKOylcrk9A=/244x28:1233x687/177x117/data/photo/2025/12/05/69323425436f4.png" alt="Nubia Rilis HP Tahan Banting, Lolos Standar Militer dan Anti-air"></a></div>
+  </div>
+  <div class="article__list__title">
+    <div class="article__title article__title--medium"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/06/15330027/nubia-rilis-hp-tahan-banting-lolos-standar-militer-dan-anti-air" target="_parent">Nubia Rilis HP Tahan Banting, Lolos Standar Militer dan Anti-air</a></div>
+  </div>
+  <div class="article__list__info">
+    <div class="article__subtitle article__subtitle--inline ">Gadget</div>
+    <div class="article__date">06/12/2025, 15:33 WIB</div>
+      </div>
+  <div class="clearfix"></div>
+</div>
+<div class="article__list clearfix">
+  <div class="article__list__asset clearfix">
+        <div class="article__asset"><a href="https://tekno.kompas.com/read/2025/12/05/13150087/sony-alpha-7-v-resmi-mirrorless-full-frame-dengan-sensor-cmos-bertenaga-ai" target="_parent"><img class="lozad" data-src="https://asset.kompas.com/crops/OuUgo7PWzmmaP4gW0mHQYnoqWgA=/89x0:1214x750/177x117/data/photo/2025/12/05/693241c28501a.jpg" alt="Sony Alpha 7 V Resmi, Mirrorless Full-frame dengan Sensor CMOS Bertenaga AI"></a></div>
+  </div>
+  <div class="article__list__title">
+    <div class="article__title article__title--medium"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/05/13150087/sony-alpha-7-v-resmi-mirrorless-full-frame-dengan-sensor-cmos-bertenaga-ai" target="_parent">Sony Alpha 7 V Resmi, Mirrorless Full-frame dengan Sensor CMOS Bertenaga AI</a></div>
+  </div>
+  <div class="article__list__info">
+    <div class="article__subtitle article__subtitle--inline ">Gadget</div>
+    <div class="article__date">05/12/2025, 13:15 WIB</div>
+      </div>
+  <div class="clearfix"></div>
+</div>
+<div class="article__list clearfix">
+  <div class="article__list__asset clearfix">
+        <div class="article__asset"><a href="https://tekno.kompas.com/read/2025/12/05/11040027/nubia-s2-dirilis-hp-entry-level-dengan-standar-militer" target="_parent"><img class="lozad" data-src="https://asset.kompas.com/crops/GjiE9f2Cdn8x6YehJNKOylcrk9A=/244x28:1233x687/177x117/data/photo/2025/12/05/69323425436f4.png" alt="Nubia S2 Dirilis, HP Entry-level dengan Standar Militer"></a></div>
+  </div>
+  <div class="article__list__title">
+    <div class="article__title article__title--medium"><a class="article__link" href="https://tekno.kompas.com/read/2025/12/05/11040027/nubia-s2-dirilis-hp-entry-level-dengan-standar-militer" target="_parent">Nubia S2 Dirilis, HP Entry-level dengan Standar Militer</a></div>
+  </div>
+  <div class="article__list__info">
+    <div class="article__subtitle article__subtitle--inline ">Gadget</div>
+    <div class="article__date">05/12/2025, 11:04 WIB</div>
+      </div>
+  <div class="clearfix"></div>
+</div>
+		</div>
+
+		<div class="text-center mt2 clearfix"><div class="paging clearfix"><div class="paging__wrap clearfix"><div class="paging__item"><a class="paging__link paging__link--active" href="javascript:void(0)" data-google-interstitial="false">1</a></div><div class="paging__item"><a class="paging__link" href="https://tekno.kompas.com/gadget/2" data-ci-pagination-page="2" data-google-interstitial="false">2</a></div><div class="paging__item"><a class="paging__link" href="https://tekno.kompas.com/gadget/3" data-ci-pagination-page="3" data-google-interstitial="false">3</a></div><div class="paging__item"><a class="paging__link paging__link--next" href="https://tekno.kompas.com/gadget/2" data-ci-pagination-page="2" rel="next" data-google-interstitial="false">Next</a></div><div class="paging__item"><a class="paging__link paging__link--last" href="https://tekno.kompas.com/gadget/15" data-ci-pagination-page="15" data-google-interstitial="false">Last ›</a></div></div></div></div>	
+	</div>
+	<div class="col-bs10-3">
+		<div class="kcm kcm__big clearfix js-giant-wp-top1">
+    <div class="kcm kcm__track clearfix">
+<div class="kcm kcm__sticky clearfix">
+<div id="div-gpt-ad-Giant" style="text-align: center;" data-google-query-id="CPCqkYXItJEDFRCIZgIdf8YMog">
+	
+<div id="google_ads_iframe_/31800665/KOMPAS.COM/tekno_1__container__" style="border: 0pt none; display: inline-block; width: 300px; height: 600px;"><iframe frameborder="0" src="https://55b782c5b1bbb645651e78ee7ca156e2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html" id="google_ads_iframe_/31800665/KOMPAS.COM/tekno_1" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="300" height="600" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="private-state-token-redemption;attribution-reporting" aria-label="Advertisement" tabindex="0" data-google-container-id="2" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div>
+</div>
+</div></div>
+
+            <div class="gate-kgplus">
+                <span>Baca berita tanpa iklan. <a href="https://plus.kompas.com/detail?source=Kompas.com&amp;medium=belowads-desktop&amp;campaign=BacaBeritaTanpaIklan" data-google-interstitial="false">Gabung Kompas.com+</a></span>
+            </div>
+        
+
+        <div class="row mt2 clearfix">
+	<div class="kcm kcm__track clearfix">
+		<div class="kcm kcm__sticky clearfix">
+			<!-- s: Rectangle Sticky -->
+<link rel="stylesheet" type="text/css" href="https://adsimg.kompas.com/html5/assets_ads/rectangle-sticky-read/css/sticky_style.css?v=1">
+<div class="sticky__rectangle" style="z-index: 11;">
+
+<div id="div-gpt-ad-Right_3" data-google-query-id="CPKqkYXItJEDFRCIZgIdf8YMog">
+			
+		<div id="google_ads_iframe_/31800665/KOMPAS.COM/tekno_2__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/31800665/KOMPAS.COM/tekno_2" name="google_ads_iframe_/31800665/KOMPAS.COM/tekno_2" title="3rd party ad content" width="300" height="600" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption;attribution-reporting" data-load-complete="true" data-google-container-id="3" style="border: 0px; vertical-align: bottom;"></iframe></div></div>
+
+
+
+
+
+
+
+
+</div><div></div>
+<script type="text/javascript" src="https://adsimg.kompas.com/html5/assets_ads/rectangle-sticky-read/js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+$(window).bind("load", function () {
+$('.sticky__rectangle').scrollToFixed({
+marginTop: 46,
+limit: $('.sticky__rectangle').offset().top + 0,
+zIndex: 11,
+unfixed: function() { 
+                if ($('.sticky__rectangle').hasClass("scroll-to-fixed-fixed")) {
+                    $('.sticky__rectangle').css('left', '');
+                    $('.sticky__rectangle').css('top', '');
+                }
+            }
+
+});
+});	
+});
+</script>
+<!-- e: Rectangle Sticky -->		</div>
+	</div>
+</div>
+
+
+            <div class="gate-kgplus">
+                <span>Baca berita tanpa iklan. <a href="https://plus.kompas.com/detail?source=Kompas.com&amp;medium=belowads-desktop&amp;campaign=BacaBeritaTanpaIklan" data-google-interstitial="false">Gabung Kompas.com+</a></span>
+            </div>
+        
+
+		<!-- review -->
+		<div class="topic topic--review mt2 ga--topic clearfix">
+  <div class="title clearfix title--center">
+    <h2 class="title__content">Review</h2>
+  </div>
+  <div class="topic__wrap mt2 clearfix">
+    <div class="article__grid">
+      <div class="article__asset"><a href="http://tekno.kompas.com/read/2025/11/26/15010017/hands-on-realme-c85-dan-c85-pro--dicoba-dan-disiksa-"><img src="https://asset.kompas.com/crops/eHUDY_EJM5R73mWQ0tAysU9SYZk=/115x8:1184x720/300x200/data/photo/2025/11/25/6925b984a4a9f.jpeg" alt="Hands-On Realme C85 dan C85 Pro: Dicoba dan " disiksa""=""></a></div>
+      <div class="article__box article__box--offset-0">
+                <div class="article__list__item">
+          <h4 class="article__title article__title--bullet"><a class="article__link" href="http://tekno.kompas.com/read/2025/11/26/15010017/hands-on-realme-c85-dan-c85-pro--dicoba-dan-disiksa-">Hands-On Realme C85 dan C85 Pro: Dicoba dan "Disiksa"</a></h4>
+        </div>
+                <div class="article__list__item">
+          <h4 class="article__title article__title--bullet"><a class="article__link" href="http://tekno.kompas.com/read/2025/10/26/13030037/hands-on-samsung-galaxy-tab-a11--tablet-rp-2-jutaan-dengan-fitur-ai">Hands-on Samsung Galaxy Tab A11: Tablet Rp 2 Jutaan dengan Fitur AI</a></h4>
+        </div>
+                <div class="article__list__item">
+          <h4 class="article__title article__title--bullet"><a class="article__link" href="http://tekno.kompas.com/read/2025/10/14/16030027/menjajal-samsung-galaxy-a17-4g--kamera-stabil-harga-terjangkau-dan-bonus-kepala">Menjajal Samsung Galaxy A17 4G: Kamera Stabil, Harga Terjangkau, dan Bonus Kepala Charger</a></h4>
+        </div>
+              </div>
+    </div>
+  </div>
+</div>
+		<!-- terpopuler -->
+		<!-- terpopuler-->
+<div class="most ga--most mt1 clearfix">
+    <div class="title title--center clearfix">
+        <div class="title__content">Terpopuler</div>
+    </div>
+    <div class="most__wrap clearfix">
+        <div class="most__list  clearfix"> 
+    <div class="most__count">1</div>
+        <a class="most__link" href="https://tekno.kompas.com/read/2025/12/09/15050097/awal-revolusi-ai-server-nvidia-tak-laku-elon-musk-beli-dan-ubah-sejarah">
+        <div class="most__title">Awal Revolusi AI: Server Nvidia Tak Laku, Elon Musk Beli dan Ubah Sejarah</div> 
+            
+        <div class="most__read">Dibaca 11.670 kali</div>
+            </a>
+</div>
+<div class="most__list  clearfix"> 
+    <div class="most__count">2</div>
+        <a class="most__link" href="https://tekno.kompas.com/read/2025/12/08/16480027/cloudflare-indonesia-sumber-serangan-siber-ddos-terbesar-di-dunia">
+        <div class="most__title">Cloudflare: Indonesia Sumber Serangan Siber DDoS Terbesar di Dunia</div> 
+            
+        <div class="most__read">Dibaca 5.776 kali</div>
+            </a>
+</div>
+<div class="most__list  clearfix"> 
+    <div class="most__count">3</div>
+        <a class="most__link" href="https://tekno.kompas.com/read/2025/12/10/08020057/ini-dia-jolla-phone-smartphone-linux-sejati-punya-fitur-privasi-tinggi">
+        <div class="most__title">Ini Dia Jolla Phone, Smartphone "Linux Sejati" Punya Fitur Privasi Tinggi</div> 
+            
+        <div class="most__read">Dibaca 4.776 kali</div>
+            </a>
+</div>
+<div class="most__list  clearfix"> 
+    <div class="most__count">4</div>
+        <a class="most__link" href="https://tekno.kompas.com/read/2025/12/08/12350007/20-hp-android-terkencang-versi-antutu-per-november-2025">
+        <div class="most__title">20 HP Android Terkencang Versi Antutu per November 2025</div> 
+            
+        <div class="most__read">Dibaca 4.485 kali</div>
+            </a>
+</div>
+<div class="most__list  clearfix"> 
+    <div class="most__count">5</div>
+        <a class="most__link" href="https://tekno.kompas.com/read/2025/12/10/10250097/australia-resmi-larang-anak-di-bawah-16-tahun-akses-medsos-pertama-di-dunia">
+        <div class="most__title">Australia Resmi Larang Anak di Bawah 16 Tahun Akses Medsos, Pertama di Dunia</div> 
+            
+        <div class="most__read">Dibaca 2.330 kali</div>
+            </a>
+</div>
+<div class="most__list  clearfix"> 
+    <div class="most__count">6</div>
+        <a class="most__link" href="https://tekno.kompas.com/read/2025/12/08/14350037/23-hp-dan-tablet-poco-yang-kebagian-hyperos-3-serta-jadwalnya">
+        <div class="most__title">23 HP dan Tablet Poco yang Kebagian HyperOS 3 serta Jadwalnya</div> 
+            
+        <div class="most__read">Dibaca 2.225 kali</div>
+            </a>
+</div>
+<div class="most__list  clearfix"> 
+    <div class="most__count">7</div>
+        <a class="most__link" href="https://tekno.kompas.com/read/2025/12/09/09380057/hp-honor-magic-8-lite-resmi-dengan-baterai-7.500-mah">
+        <div class="most__title">HP Honor Magic 8 Lite Resmi dengan Baterai 7.500 MAh</div> 
+            
+        <div class="most__read">Dibaca 2.172 kali</div>
+            </a>
+</div>
+<div class="most__list  clearfix"> 
+    <div class="most__count">8</div>
+        <a class="most__link" href="https://tekno.kompas.com/read/2025/12/09/07010037/layanan-pencuci-uang-cryptomixer-digerebek-polisi-sita-bitcoin-rp-3-triliun">
+        <div class="most__title">Layanan Pencuci Uang CryptoMixer Digerebek, Polisi Sita Bitcoin Rp 3 Triliun</div> 
+            
+        <div class="most__read">Dibaca 1.996 kali</div>
+            </a>
+</div>
+<div class="most__list  clearfix"> 
+    <div class="most__count">9</div>
+        <a class="most__link" href="https://tekno.kompas.com/read/2025/12/09/12350017/gonjang-ganjing-apple-ditinggal-para-petinggi-di-tengah-isu-pergantian-ceo">
+        <div class="most__title">Gonjang-ganjing Apple, Ditinggal Para Petinggi di Tengah Isu Pergantian CEO</div> 
+            
+        <div class="most__read">Dibaca 1.849 kali</div>
+            </a>
+</div>
+<div class="most__list  clearfix"> 
+    <div class="most__count">10</div>
+        <a class="most__link" href="https://tekno.kompas.com/read/2025/12/10/13310097/hp-tecno-spark-40-resmi-di-indonesia-desain-ala-iphone-17-pro-max-harga-rp-1">
+        <div class="most__title">HP Tecno Spark 40 Resmi di Indonesia, Desain ala iPhone 17 Pro Max Harga Rp 1 Jutaan</div> 
+            
+        <div class="most__read">Dibaca 1.662 kali</div>
+            </a>
+</div>
+    </div>
+        
+</div>
+		<div class="row mt2 clearfix">
+	<div class="kcm kcm__track clearfix">
+		<div class="kcm kcm__sticky clearfix">
+			<div id="div-gpt-ad-Right_4" data-google-query-id="CP2xjoXItJEDFRCIZgIdf8YMog">
+			
+		<div id="google_ads_iframe_/31800665/KOMPAS.COM/tekno_3__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/31800665/KOMPAS.COM/tekno_3" name="google_ads_iframe_/31800665/KOMPAS.COM/tekno_3" title="3rd party ad content" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption;attribution-reporting" data-load-complete="true" data-google-container-id="4" style="border: 0px; vertical-align: bottom;"></iframe></div></div>		</div>
+	</div>
+</div>
+
+
+            <div class="gate-kgplus">
+                <span>Baca berita tanpa iklan. <a href="https://plus.kompas.com/detail?source=Kompas.com&amp;medium=belowads-desktop&amp;campaign=BacaBeritaTanpaIklan" data-google-interstitial="false">Gabung Kompas.com+</a></span>
+            </div>
+        
+        <div class="mt2 clearfix">
+	<div class="kcm kcm__rectangle clearfix">
+		<span id="wrap_lazy_div-gpt-ad-Right_5" style="margin-top:-200px;position:absolute"></span>
+<div id="div-gpt-ad-Right_5">
+</div>
+<script type="text/javascript">
+    var observer_ads_div_gpt_ad_Right_5 = new IntersectionObserver(function(entires){
+        entires.forEach(function(entry) {
+            if(entry.intersectionRatio > 0){
+                show_ads_div_gpt_ad_Right_5(entry.target)                
+            }
+        });
+    }, {
+        threshold: 0
+    });        
+
+    observer_ads_div_gpt_ad_Right_5.observe(document.getElementById('wrap_lazy_div-gpt-ad-Right_5'));
+    function show_ads_div_gpt_ad_Right_5(element){
+        console.log('show_ads lazy');
+        observer_ads_div_gpt_ad_Right_5.unobserve(element);
+        observer_ads_div_gpt_ad_Right_5.disconnect();        
+        
+		googletag.cmd.push(function() { var slot = googletag.defineSlot('/31800665/KOMPAS.COM/tekno', [[300,250]],'div-gpt-ad-Right_5').setTargeting('Pos',['Right_5']).setTargeting('kg_pos', ['right_5']).addService(googletag.pubads());googletag.display('div-gpt-ad-Right_5'); googletag.pubads().refresh([slot]);});
+	    }
+</script>	</div>
+</div>
+
+
+            <div class="gate-kgplus">
+                <span>Baca berita tanpa iklan. <a href="https://plus.kompas.com/detail?source=Kompas.com&amp;medium=belowads-desktop&amp;campaign=BacaBeritaTanpaIklan" data-google-interstitial="false">Gabung Kompas.com+</a></span>
+            </div>
+        
+	</div>
+</div>
+        <div class="kcm kcm__horizontal clearfix">
+	<a class="kcm__close js-kcm-horizontal" href="#" data-google-interstitial="false">Close Ads <span class="kcm__close__icon"></span></a>
+    <div id="div-gpt-ad-Horizontal_Ad" data-google-query-id="CPSqkYXItJEDFRCIZgIdf8YMog">
+		
+	<div id="google_ads_iframe_/31800665/KOMPAS.COM/tekno_4__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/31800665/KOMPAS.COM/tekno_4" name="google_ads_iframe_/31800665/KOMPAS.COM/tekno_4" title="3rd party ad content" width="1100" height="150" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption;attribution-reporting" data-load-complete="true" data-google-container-id="5" style="border: 0px; vertical-align: bottom;"></iframe></div></div></div>        
+    </div>
+
+    <!-- footer-->
+    <!-- modals -->
+<div id="kcm-modals">
+    <div class="modals__content"></div>
+</div>
+
+<div id="sso_g_signin">
+</div>
+<!-- footer -->
+<div class="footerMain clearfix">
+    <div class="container">
+
+        <div class="footerWrap">
+            <div class="footerCol-column">
+
+                <div class="footerLogo">
+                    <a href="https://www.kompas.com" data-google-interstitial="false">
+                        <img class="lozad" data-src="https://asset.kompas.com/data/2023/11/30/kompascom/desktop/images/logo-kompascom-small.png" alt="www.kompas.com" width="207" height="26">
+                    </a>
+                </div>
+
+                <div class="footerSosmed">
+                    <ul class="footerSosmed-wrap">
+                        <li>
+                            <a href="http://www.facebook.com/kompascom" target="_blank" class="footerSosmed-link" aria-label="Facebook" data-google-interstitial="false">
+                                <div class="iconSos iconSos-facebook"></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.twitter.com/kompascom" target="_blank" class="footerSosmed-link" aria-label="X" data-google-interstitial="false">
+                                <div class="iconSos iconSos-x"></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://t.me/kompascomupdate" target="_blank" class="footerSosmed-link" aria-label="Telegram" data-google-interstitial="false">
+                                <div class="iconSos iconSos-telegram"></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://instagram.com/kompascom" target="_blank" class="footerSosmed-link" aria-label="Instagram" data-google-interstitial="false">
+                                <div class="iconSos iconSos-instagram"></div>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul class="footerSosmed-wrap">
+                        <li>
+                            <a href="https://www.youtube.com/c/mykompascom" target="_blank" class="footerSosmed-link" aria-label="Youtube" data-google-interstitial="false">
+                                <div class="iconSos iconSos-youtube"></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://kmp.im/AGFeTy" target="_blank" class="footerSosmed-link" aria-label="Whatsapp" data-google-interstitial="false">
+                                <div class="iconSos iconSos-whatsapp"></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.tiktok.com/@kompascom?lang=en" target="_blank" class="footerSosmed-link" aria-label="Tiktok" data-google-interstitial="false">
+                                <div class="iconSos iconSos-tiktok"></div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="footerDownload">
+                    <ul class="footerDownload-wrap">
+                        <li>
+                            <a href="https://apps.apple.com/id/app/kompas-com-berita-terpercaya/id535483055" target="_blank" data-google-interstitial="false">
+                                <div class="footerDownload-store">
+                                    <img class="lozad" data-src="https://asset.kompas.com/data/2017/mobile/images/id-badge-appstore.png" alt="apple store">
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://play.google.com/store/apps/details?id=com.ertanto.kompas.official&amp;hl=en&amp;gl=US" target="_blank" data-google-interstitial="false">
+                                <div class="footerDownload-store">
+                                    <img class="lozad" data-src="https://asset.kompas.com/data/2017/mobile/images/id-badge-playstore.png" alt="google store">
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="footerAchievement">
+                    <div class="footerAchievement-title">
+                        Penghargaan dan sertifikat:
+                    </div>
+                    <div class="footerAchievement-wrap">
+                        <div class="footerAchievement-item">
+                            <a href="#" class="footerAchievement-link" data-google-interstitial="false">
+                                <div class="footerAchievement-img">
+                                    <img class="lozad" data-src="https://asset.kompas.com/data/2017/wp/images/logo-wowbrands-2019.png" alt="WOW Brand Indonesia 2019" title="WOW Brand Indonesia 2019">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="footerAchievement-item">
+                            <div class="footerAchievement-link">
+                                <a href="https://money.kompas.com/read/2019/08/01/124215826/kompascom-kembali-jadi-pemenang-kategori-media-online-tepercaya" class="footerAchievement-link">
+                                    <div class="footerAchievement-img">
+                                        <img class="lozad" data-src="https://asset.kompas.com/data/2017/wp/images/logo-superbrands-2019.png" alt="Superbrand Indonesia 2019 - Trusted Online News" title="Superbrands Indonesia 2019">
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="footerAchievement-item">
+	                        <a href="https://ifcncodeofprinciples.poynter.org/profile/pt-kompas-cyber-media" class="footerAchievement-link" target="_blank" data-google-interstitial="false">
+	                            <div class="footerAchievement-img">
+	                                <img class="lozad" data-src="https://asset.kompas.com/data/2024/wp/images/desktop/logo-ifcn.png" alt="International Fact-Checking Network" title="International Fact-Checking Network" loading="lazy">
+	                            </div>
+	                        </a>
+	                    </div>
+                    </div>
+                </div>
+
+                <div class="footerNewsletter">
+                    <div class="footerNewsletter-title">
+                        Dapatkan informasi dan insight pilihan redaksi Kompas.com
+                    </div>
+
+                    <div class="footerNewsletter-cta">
+                        <a href="javascript:void(0)" onclick="nwsLetterSubmit()" class="footerNewsletter-link" data-google-interstitial="false">
+                            <i class="iconNewsletter"></i> Daftarkan Email
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+            <div class="footerCol-nav">
+                <div class="footerMenu-title">Kanal</div>
+
+                <div class="footerMenu">
+                    <ul class="footerMenu-wrap">
+                                            <li><a href="https://news.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">News</a></li>
+                        <li><a href="https://nasional.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Nasional</a></li>
+                        <li><a href="https://www.kompas.com/global?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Global</a></li>
+                        <li><a href="https://megapolitan.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Megapolitan</a></li>
+                        <li><a href="https://regional.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Regional</a></li>
+                        <li><a href="https://pemilu.kompas.com/?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Pemilu</a></li>
+                        <!-- <li><a href="https://www.kompas.com/ramadhan/?source=kompascom&medium=footer" class="footerMenu-link --linknew">Ramadhan</a></li> -->
+                        <li><a href="https://ikn.kompas.com/?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">IKN</a></li>
+                        <li><a href="https://bola.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Bola</a></li>
+                        <li><a href="https://tekno.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Tekno</a></li>
+                        <li><a href="https://otomotif.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Otomotif</a></li>
+                        <li><a href="https://entertainment.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Entertainment</a></li>
+                        <li><a href="https://sains.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Sains</a></li>
+                        <li><a href="https://health.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Health</a></li>
+                        <li><a href="https://money.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Money</a></li>
+                        <li><a href="https://www.kompas.com/tren?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Tren</a></li>
+                        <li><a href="https://properti.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Properti</a></li>
+                        <li><a href="https://lifestyle.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Lifestyle</a></li>
+                        <li><a href="https://www.kompas.com/hype?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Hype</a></li>
+                        <li><a href="https://travel.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Travel</a></li>
+                        <li><a href="https://www.kompas.com/homey?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Homey</a></li>
+                        <li><a href="https://www.kompas.com/food?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Food</a></li>
+                        <li><a href="https://umkm.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">UMKM</a></li>
+                        <li><a href="https://edukasi.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Edukasi</a></li>
+                        <li><a href="https://www.kompas.com/parapuan?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Parapuan</a></li>
+                        <li><a href="https://foto.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Foto</a></li>
+                        <li><a href="https://video.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Video</a></li>
+                        <li><a href="https://kolom.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Kolom</a></li>
+                        <li><a href="https://vik.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">VIK</a></li>
+                        <li><a href="https://jeo.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">JEO</a></li>
+                        <li><a href="https://lestari.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Lestari</a></li>
+                        <li><a href="https://ohayojepang.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Ohayo Jepang</a></li>
+                        <li><a href="https://pesonaindonesia.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Pesona Indonesia</a></li>
+                        <li><a href="https://play.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Play</a></li>
+                        <li><a href="https://indeks.kompas.com/terpopuler?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Artikel Terpopuler</a></li>
+                        <li><a href="https://indeks.kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Artikel Terkini</a></li>
+                        <li><a href="https://indeks.kompas.com/topik-pilihan?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Topik Pilihan</a></li>
+                        <li><a href="https://indeks.kompas.com/headline?source=kompascom&amp;medium=footer" class="footerMenu-link" data-google-interstitial="false">Artikel Headline</a></li>
+                                        </ul>
+                </div>
+            </div>
+            <div class="footerCol-nav --colNetwork">
+                <div class="footerMenu-title">Network</div>
+                
+                <div class="footerMenu">
+                    <ul class="footerMenu-wrap">
+                        <li><a href="https://kompas.com?source=kompascom&amp;medium=footer" class="footerMenu-link" target="_blank" data-google-interstitial="false">Kompas.com</a></li>
+                        <li><a href="https://kompas.id?source=kompascom&amp;medium=footer" class="footerMenu-link" target="_blank" data-google-interstitial="false">Harian KOMPAS</a></li>
+                        <li><a href="https://www.kompas.tv?source=kompascom&amp;medium=footer" class="footerMenu-link" target="_blank" data-google-interstitial="false">KompasTV</a></li>
+                        <li><a href="https://www.kompasiana.com?source=kompascom&amp;medium=footer" class="footerMenu-link" target="_blank" data-google-interstitial="false">Kompasiana</a></li>
+                        <li><a href="https://www.kgmedia.id?source=kompascom&amp;medium=footer" class="footerMenu-link" target="_blank" data-google-interstitial="false">KG Media</a></li>
+                        <li><a href="https://www.kgnow.com?source=kompascom&amp;medium=footer" class="footerMenu-link" target="_blank" data-google-interstitial="false">KGNow!</a></li>
+                        <li><a href="https://pasangiklan.com?source=kompascom&amp;medium=footer" class="footerMenu-link" target="_blank" data-google-interstitial="false">Pasangiklan.com</a></li>
+                        <li><a href="https://www.kontan.co.id?source=kompascom&amp;medium=footer" class="footerMenu-link" target="_blank" data-google-interstitial="false">Kontan</a></li>
+                        <li><a href="https://www.sonora.id?source=kompascom&amp;medium=footer" class="footerMenu-link" target="_blank" data-google-interstitial="false">Sonora</a></li>
+                        <li><a href="https://www.grid.id?source=kompascom&amp;medium=footer" class="footerMenu-link" target="_blank" data-google-interstitial="false">Grid.ID</a></li>
+                        <li><a href="https://www.gridoto.com?source=kompascom&amp;medium=footer" class="footerMenu-link" target="_blank" data-google-interstitial="false">GridOto.com</a></li>
+                        <li><a href="https://www.bolasport.com?source=kompascom&amp;medium=footer" class="footerMenu-link" target="_blank" data-google-interstitial="false">BolaSport.com</a></li>
+                        <li><a href="https://parapuan.co/?source=kompascom&amp;medium=footer" class="footerMenu-link" target="_blank" data-google-interstitial="false">Parapuan</a></li>
+                        <li><a href="https://www.tribunnews.com?source=kompascom&amp;medium=footer" class="footerMenu-link" target="_blank" data-google-interstitial="false">Tribunnews</a></li>
+                        <li><a href="https://www.gramedia.com?source=kompascom&amp;medium=footer" class="footerMenu-link" target="_blank" data-google-interstitial="false">Gramedia.com</a></li>
+                        <li><a href="https://ebooks.gramedia.com?source=kompascom&amp;medium=footer" class="footerMenu-link" target="_blank" data-google-interstitial="false">Gramedia Digital</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="footerBottom">
+            <div class="footerBottom-wrap">
+                <ul class="footerBottom-menu">
+                    <li>
+                        <a class="footerMenu-link" href="https://kabarpalmerah.kompas.com/" data-google-interstitial="false">Kabar Palmerah</a>
+                    </li>
+                    <li>
+                        <a class="footerMenu-link" href="https://inside.kompas.com/about-us" data-google-interstitial="false">About Us</a>
+                    </li>
+                    <li>
+                        <a class="footerMenu-link" href="http://www.meetkcm.com/" data-google-interstitial="false">Advertise</a>
+                    </li>
+                    <li>
+                        <a class="footerMenu-link" href="https://inside.kompas.com/term-of-use" data-google-interstitial="false">Ketentuan Penggunaan</a>
+                    </li>
+                    <li>
+                        <a class="footerMenu-link" href="https://www.kgmedia.id/legal-privacy-id" data-google-interstitial="false">Kebijakan Data Pribadi</a>
+                    </li>
+                    <li>
+                        <a class="footerMenu-link" href="https://inside.kompas.com/pedoman" data-google-interstitial="false">Pedoman Media Siber</a>
+                    </li>
+                    <li>
+                        <a class="footerMenu-link" href="https://jobs.kompas.com" data-google-interstitial="false">Career</a>
+                    </li>
+                    <li>
+                        <a class="footerMenu-link" href="https://inside.kompas.com/about-us#meet" data-google-interstitial="false">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="footerCopyright">
+                <p>Copyright 2008 - 2025 PT. Kompas Cyber Media (Kompas Gramedia Digital Group). All Rights Reserved.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div><iframe marginwidth="0" marginheight="0" scrolling="no" frameborder="0" id="18dbe20c3849b88" width="0" height="0" src="about:blank" name="__pb_locator__" style="display: none; height: 0px; width: 0px; border: 0px;"></iframe>
+
+<script type="text/javascript">
+function getCookieNwsLetter(name) {
+    var re = new RegExp(name + "=([^;]+)");
+    var value = re.exec(document.cookie);
+    return (value != null) ? unescape(value[1]) : null;
+}
+
+function nwsLetterSubmit() {
+    var token = getCookieNwsLetter("kmp_uid");
+    if (token !== null) {
+        window.location.href = "https://www.kompas.com/newsletter/pendaftaran-berhasil";
+    } else {
+        window.location.href =
+            'https://account.kompas.com/login/a29tcGFz/aHR0cHM6Ly93d3cua29tcGFzLmNvbS9uZXdzbGV0dGVyL3BlbmRhZnRhcmFuLWJlcmhhc2ls?source=kompas.com&medium=gatenewsletter';
+    }
+}
+</script>    
+  <script src="https://asset.kompas.com/data/2025/07/18/sso/js/sso_g_signin_fedcm.min.js"></script>
+  <script type="text/javascript">
+    popup_enabled = [
+        'kgmModal-age',
+        'kgmModal-cookie',
+        'kgmModal-onetap-kompasplusreminder',
+        // 'kgmModal-onetap-freepremium',
+        'kgmModal-verify-v2',
+        'kgmModal-onetap',
+        'kgmModal-onetap'
+    ];
+  </script>    
+  <script src="https://asset.kompas.com/data/2025/02/27/sso/js/popup_manager.min.js"></script>
+
+
+<!-- <script src="https://asset.kompas.com/data/2017/wp/js/radio-stream.js"></script> -->
+<script src="https://asset.kompas.com/data/2017/wp/js/slick.min.js"></script>
+<script src="https://asset.kompas.com/data/2017/wp/js/jquery.sticky-kit.min.js"></script>
+<script src="https://asset.kompas.com/data/2017/wp/js/jquery.marquee.min.js?v=11"></script>
+<script src="https://asset.kompas.com/data/2017/wp/js/jquery.lazyload.min.js"></script>
+<script src="https://asset.kompas.com/data/2023/11/07/kompascom/desktop/js/swiper-bundle.min.js"></script>
+<script src="https://asset.kompas.com/data/2025/11/25/kompascom/desktop/js/main-revamp.min.js"></script>
+<script src="https://asset.kompas.com/data/2025/12/08/kompascom/desktop/js/main.min.js?v=2"></script>
+
+<script src="https://asset.kompas.com/data/2025/01/21/sso/js/sso_personalisasi.min.js"></script>
+<script src="https://asset.kompas.com/data/2025/10/08/sso/sdk-cookie-consent.min.js"></script>
+
+<script src="https://asset.kompas.com/data/2025/sso/extender.min.js?v=113"></script>
+
+<script src="https://asset.kompas.com/data/2022/sso/js/ssouser.min.js?v=2"></script>
+
+<script src="https://asset.kompas.com/data/2017/wp/js/main-photo-article.min.js?v=6"></script>
+
+<script src="https://asset.kompas.com/data/2017/wp/js/photoswipe.min.js"></script>
+<script src="https://asset.kompas.com/data/2017/wp/js/photoswipe-ui-default.min.js"></script>
+  <script src="https://asset.kompas.com/data/2025/05/14/cuaca/desktop/js/main-article.min.js"></script>
+<script src="https://asset.kompas.com/data/2017/wp/js/bootstrap-datepicker.min.js"></script>
+
+<script src="https://asset.kompas.com/data/2017/wp/js/jquery.magnific-popup.min.js"></script>
+
+<script src="https://asset.kompas.com/data/2025/07/18/kompascom/desktop/js/main-comment.min.js"></script>
+
+<script>
+    !(function () {
+        var time = new Date().getTime();
+    
+        $(document.body).bind('mousemove keypress', function(e) {
+            time = new Date().getTime();
+        });
+    
+        function refresh() {
+            if (new Date().getTime() - time >= 900000) { // 15 Menit
+                window.location.reload(true);
+            } else {
+                setTimeout(refresh, 10000);
+            }
+        }
+        setTimeout(refresh, 10000);
+    })();
+</script>
+
+<script async="" src="https://asset.kompas.com/kgnotif/2024/11/06/kompascom.js"></script>
+<script>
+function setCookieUkid(cname, cvalue, exdays) {
+  var d = new Date();
+  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+  var expires = "expires="+ d.toUTCString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";domain=.kompas.com;path=/;";
+}
+if(document.cookie.indexOf('ukid=') == -1){
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+          var ukid_cookie = JSON.parse(xhttp.responseText);
+          setCookieUkid('ukid', ukid_cookie.ukid, 365);
+      }
+  };
+  xhttp.open("GET", "https://apis.kompas.com/api/activity/user", true);
+  xhttp.send();
+}
+</script><script>
+/*! lozad.js - v1.7.0 - 2018-11-08
+* https://github.com/ApoorvSaxena/lozad.js
+* Copyright (c) 2018 Apoorv Saxena; Licensed MIT */
+!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"==typeof define&&define.amd?define(e):t.lozad=e()}(this,function(){"use strict";var g=Object.assign||function(t){for(var e=1;e<arguments.length;e++){var r=arguments[e];for(var o in r)Object.prototype.hasOwnProperty.call(r,o)&&(t[o]=r[o])}return t},r="undefined"!=typeof document&&document.documentMode,l={rootMargin:"0px",threshold:0,load:function(t){if("picture"===t.nodeName.toLowerCase()){var e=document.createElement("img");r&&t.getAttribute("data-iesrc")&&(e.src=t.getAttribute("data-iesrc")),t.getAttribute("data-alt")&&(e.alt=t.getAttribute("data-alt")),t.appendChild(e)}t.getAttribute("data-src")&&(t.src=t.getAttribute("data-src")),t.getAttribute("data-srcset")&&t.setAttribute("srcset",t.getAttribute("data-srcset")),t.getAttribute("data-background-image")&&(t.style.backgroundImage="url('"+t.getAttribute("data-background-image")+"')"),t.getAttribute("data-toggle-class")&&t.classList.toggle(t.getAttribute("data-toggle-class"))},loaded:function(){}};
+/**
+   * Detect IE browser
+   * @const {boolean}
+   * @private
+   */function f(t){t.setAttribute("data-loaded",!0)}var b=function(t){return"true"===t.getAttribute("data-loaded")};return function(){var r,o,a=0<arguments.length&&void 0!==arguments[0]?arguments[0]:".lozad",t=1<arguments.length&&void 0!==arguments[1]?arguments[1]:{},e=g({},l,t),n=e.root,i=e.rootMargin,d=e.threshold,u=e.load,c=e.loaded,s=void 0;return window.IntersectionObserver&&(s=new IntersectionObserver((r=u,o=c,function(t,e){t.forEach(function(t){(0<t.intersectionRatio||t.isIntersecting)&&(e.unobserve(t.target),b(t.target)||(r(t.target),f(t.target),o(t.target)))})}),{root:n,rootMargin:i,threshold:d})),{observe:function(){for(var t=function(t){var e=1<arguments.length&&void 0!==arguments[1]?arguments[1]:document;return t instanceof Element?[t]:t instanceof NodeList?t:e.querySelectorAll(t)}(a,n),e=0;e<t.length;e++)b(t[e])||(s?s.observe(t[e]):(u(t[e]),f(t[e]),c(t[e])))},triggerLoad:function(t){b(t)||(u(t),f(t),c(t))},observer:s}}});
+</script>
+
+<script type="text/javascript">
+    // Initialize library
+    $(document).ready(function(){
+        lozad('.lozad', {
+            load: function(el) {
+                el.src = el.dataset.src;
+                el.onload = function() {
+                    el.classList.add('fade')
+                }
+            }
+        }).observe()
+    });
+</script>
+ 
+  <script src="https://asset.kompas.com/data/2024/08/26/kgmverify/js/kgmverify.min.js"></script>
+<script>
+    function getCookie(name) {
+        var name = name + '=';
+        var cookies = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < cookies.length; i++) {
+            var c = cookies[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+    }
+
+    let popup_state = JSON.parse(getCookie('popup_state'));
+    if(popup_state.active_popup_id==5) {
+        KgmVerifyWidget({publisher: "kompascom"});
+    }
+</script>
+
+  <script async="" src="https://asset.kompas.com/data/2025/02/03/1452/freepremium_newsletter.js"></script>
+  <script async="" src="https://asset.kompas.com/data/2025/01/14/js/kompasplus_reminder.js"></script>
+
+
+<script>    
+var el_badge = document.querySelector('.sso__badge')
+var el_badge_menu = document.querySelector('.sso__badge__inline')
+
+function checkSession() {
+    var badge_temp_session = getCookie("_badge_temp_session")
+    var badge_session = getCookie("badge_session")
+    var badge_first_click = getCookie("badge_first_click");
+
+    if (badge_temp_session == "" && badge_session == "")  {
+        setCookie("_badge_temp_session", 1)
+        setCookie("badge_session", 1, 8760)
+        // console.log("test badge temp 1")
+    } else if (badge_temp_session == "" && badge_session == 1) {
+        setCookie("_badge_temp_session", 1)
+        setCookie("badge_session", 2, 8760)
+        // console.log("test badge temp 2")
+    } else if (badge_temp_session == "" && badge_session == 2 && badge_first_click == 1) {
+        setCookie("_badge_temp_session", 1)
+        setCookie("badge_session", 3, 8760)
+        // console.log("test badge temp 3")
+    }
+
+    setCookie("_badge_temp_session", 1)
+}
+checkSession()
+
+function checkCookieBadgeNps() {
+    var badge_session = getCookie("badge_session")
+    var badge_first_click = getCookie("badge_first_click")
+    var click_icon_badge = getCookie("click_icon_badge")
+    var feedback_click = getCookie("feedback_click_badge")
+    
+    // show badge jika sesi berikutnya  
+    if (badge_session == 2) {
+        el_badge.style.display = "block"
+        el_badge_menu.style.display = "block"
+        // console.log("test 1")    
+    } 
+
+    // jika ada di sesi berikutnya dan telah click badge icon utk pertama kali, maka hide badge icon login
+    if (badge_session == 2 && badge_first_click == 1) {
+        el_badge.style.display = "none"
+        // console.log("test 2")  
+        
+    // jika tidak cek,
+    // jika ada di sesi berikutnya dan telah click badge icon utk pertama kali
+    // atau jika di sesi berikutnya dan cookie click icon badge expired
+    // atau jika di sesi berikutnya dan cookie badge feedback success expired
+    } else if ((badge_session == 3 && badge_first_click == 1) || (badge_session == 3 && document.cookie.indexOf("click_icon_badge=") == -1) || (badge_session == 3 && document.cookie.indexOf("badge_feedback_success=") == -1)) {
+        el_badge.style.display = "block"
+        el_badge_menu.style.display = "block"
+        // console.log("test 3")
+    }
+
+    // hide jika ada cookie click icon badge masih aktif 
+    // utk cek cookie 2 jam, 1 hari, 1 minggu dan 4 minggu.
+    if (document.cookie.indexOf("click_icon_badge=") != -1) {
+        el_badge.style.display = "none"
+        // console.log("test 4")
+    }
+
+    // jika "Berikan masukkanmu" telah dikilk, maka hide
+    // jika tidak cek jika sesi > 1 dan cookie feedback click badge "Berikan masukkanmu" expired, maka show
+    if (document.cookie.indexOf("feedback_click_badge=") != -1) {
+        el_badge_menu.style.display = "none"
+        // console.log("test 5")
+    } else if (badge_session > 1 && document.cookie.indexOf("feedback_click_badge=") == -1) {
+        el_badge_menu.style.display = "block"
+        // console.log("test 6")
+    }
+
+    // hide jika telah memberi penilaian 
+    if (document.cookie.indexOf("badge_feedback_success=") != -1) {
+        el_badge.style.display = "none"
+        el_badge_menu.style.display = "none"
+        // console.log("test 7")
+    }
+}
+checkCookieBadgeNps()
+
+var sso__icon__login_top = document.getElementById('sso__icon__login_top')
+sso__icon__login_top.addEventListener('click', function() {
+    var badge_session = getCookie("badge_session")
+    var badge_first_click = getCookie("badge_first_click")
+    var feedback_success = getCookie("badge_feedback_success")
+    var click_icon_badge = getCookie("click_icon_badge")
+    var click_icon_counter_badge = getCookie("click_icon_counter_badge")
+
+    if (feedback_success == "" || document.cookie.indexOf("badge_feedback_success=") == -1) {
+        // click untuk pertama kali di sesi berikutnya
+        if (badge_session == 2 && badge_first_click == "") {
+            el_badge.style.display = "none"
+            el_badge_menu.style.display = "block"
+            setCookie("badge_first_click", 1, 8760)
+            // console.log("click 1")
+
+        // click jika sesi berikutnya setelah mengklik icon badge utk pertama kali    
+        } else {
+            // jika belum ada cookie click icon badge
+            // dan ada di sesi berikutnya setelah click icon pertama kali
+            // dan counter click icon kosong atau 0
+            if (badge_session == 3 && click_icon_badge == "" && (click_icon_counter_badge == "" || click_icon_counter_badge == 0)) { 
+                setCookie("click_icon_counter_badge", 1, 8760)
+                setCookie("click_icon_badge", 1, 2)
+                el_badge.style.display = "none"
+                el_badge_menu.style.display = "block"
+                // console.log("clicked 1")
+
+            // Jika cookie badge click icon expired dan counter = 1, maka set 1 hari
+            } else if (document.cookie.indexOf("click_icon_badge=") == -1 && click_icon_counter_badge == 1) { 
+                setCookie("click_icon_counter_badge", parseInt(click_icon_counter_badge)+1, 8760)
+                setCookie("click_icon_badge", 2, 24)
+                el_badge.style.display = "none"
+                el_badge_menu.style.display = "block"
+                // console.log("clicked 2")
+
+            // Jika cookie badge click icon expired dan counter = 2, maka set 1 minggu
+            } else if (document.cookie.indexOf("click_icon_badge=") == -1 && click_icon_counter_badge == 2) {
+                setCookie("click_icon_counter_badge", parseInt(click_icon_counter_badge)+1, 8760)
+                setCookie("click_icon_badge", 3, 168)
+                el_badge.style.display = "none"
+                el_badge_menu.style.display = "block"
+                // console.log("clicked 3")
+            
+            // Jika cookie badge click icon expired dan counter lebih dari 2, maka set 4 minggu
+            } else if (document.cookie.indexOf("click_icon_badge=") == -1 && click_icon_counter_badge > 2) {
+                setCookie("click_icon_counter_badge", 0, 8760) // reset badge counter click icon 
+                setCookie("click_icon_badge", 4, 672)
+                el_badge.style.display = "none"
+                el_badge_menu.style.display = "block"
+                // console.log("clicked 4")
+            }
+            // console.log("click 2")
+        }  
+
+        // jika feedback click expired dan counter >= 0, maka show
+        var feedback_click_counter = getCookie("feedback_click_counter_badge")
+        if (badge_session > 1 && document.cookie.indexOf("feedback_click_badge") == -1 && feedback_click_counter >= 0) {
+            el_badge_menu.style.display = 'block'
+        } 
+    }     
+})
+
+var feedback__item = document.getElementById('feedback__item')
+feedback__item.addEventListener("click", function() {
+    var feedback_click = getCookie("feedback_click_badge")
+    var feedback_success = getCookie("badge_feedback_success")
+    var feedback_click_counter = getCookie("feedback_click_counter_badge")
+
+    if (feedback_success == "" || document.cookie.indexOf("badge_feedback_success=") == -1) {
+        // jika belum ada cookie feedback click counter, maka set 2 jam
+        if (feedback_click_counter == "" || feedback_click_counter == 0) { 
+            setCookie("feedback_click_counter_badge", 1, 8760)
+            setCookie("feedback_click_badge", 1, 2)
+            el_badge_menu.style.display = "none"
+            // console.log("feedback clicked 1")
+
+        // Jika cookie feedback click badge expired dan counter 1, maka set 1 hari
+        } else if (document.cookie.indexOf("feedback_click_badge=") == -1 && feedback_click_counter == 1) { 
+            setCookie("feedback_click_counter_badge", parseInt(feedback_click_counter)+1, 8760)
+            setCookie("feedback_click_badge", 2, 24)
+            el_badge_menu.style.display = "none"
+            // console.log("feedback clicked 2")
+
+        // Jika cookie feedback click badge expired dan counter 2, maka set 1 minggu
+        } else if (document.cookie.indexOf("feedback_click_badge=") == -1 && feedback_click_counter == 2) {
+            setCookie("feedback_click_counter_badge", parseInt(feedback_click_counter)+1, 8760)
+            setCookie("feedback_click_badge", 3, 168)
+            el_badge_menu.style.display = "none"
+            // console.log("feedback clicked 3")
+        
+        // Jika cookie feedback click badge expired dan counter > 2, maka set 4 minggu
+        } else if (document.cookie.indexOf("feedback_click_badge=") == -1 && feedback_click_counter > 2) {
+            setCookie("feedback_click_counter_badge", 0, 8760)
+            setCookie("feedback_click_badge", 4, 672)
+            el_badge_menu.style.display = "none"
+            // console.log("feedback clicked 4")
+        } else {
+            // jika di sesi sebelumnya sudah diklik tapi belum isi feedback
+            el_badge_menu.style.display = "none"
+            // console.log("feedback clicked 5")
+        }
+    } 
+})
+
+function setCookie(name,value,hour) {
+    var expires = "";
+    if (hour) {
+        var date = new Date();
+        date.setTime(date.getTime() + (hour*60*60*1000));
+        expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "")  + expires + "; ;domain=.kompas.com;path=/";
+}
+
+function getCookie(cname) {
+    var name = cname + "=";
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+        c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+        return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+
+// action create cookie badge_feedback_success expired 90 hari
+var onSubmitNps = document.getElementById("nps-submit")
+if (onSubmitNps !== null) {
+    onSubmitNps.addEventListener("click", function(e) {
+        // e.preventDefault() 
+        setCookie("badge_feedback_success", 1, 2160)
+    })
+}
+</script><script>
+    const showAllBtnJs = document.querySelector('#show_all_news')
+    if (!!showAllBtnJs) {
+        showAllBtnJs.addEventListener('click', function() {
+            const startPage = showAllBtnJs.dataset.startPage
+            const url = new URL(window.location.href);
+            window.location.href = `${url.origin}${url.pathname}?page=all#page${startPage}`;
+        })
+    }
+</script>
+
+
+<script>
+    var addebug = document.querySelectorAll('.cpRight');
+    for (i = 0; i < addebug.length; ++i) {
+        addebug[i].addEventListener('click', function handleClick() {
+            googletag.openConsole();
+        });
+    };
+</script>
+
+
+<script>
+    var inject_baca_juga = document.getElementsByClassName('inject-baca-juga');
+    if(inject_baca_juga.length > 0){
+        var xhr_auto_baca_juga = new XMLHttpRequest();
+        xhr_auto_baca_juga.open("POST", "https://recommendation.kgdata.dev/rec/kompascom/api/v2/recommendation/item", true);
+        xhr_auto_baca_juga.setRequestHeader("Content-Type", "application/json");
+        xhr_auto_baca_juga.onreadystatechange = function () {
+            if (xhr_auto_baca_juga.readyState === 4 && xhr_auto_baca_juga.status === 200) {
+                var json_baca_juga = JSON.parse(xhr_auto_baca_juga.responseText);
+                for (var i = 0; i < inject_baca_juga.length; i++) {
+                    inject_baca_juga[i].innerHTML = '<p><strong>Baca juga: <a href="'+json_baca_juga.items[i].url.replace('http:/','https:/')+'?source=bacajuga&engine=C" class="inner-link-baca-juga" target="_self">'+json_baca_juga.items[i].title+'</a></strong></p>';
+                }
+            }
+        };
+        var data = JSON.stringify({
+            "pageurl" : "https://tekno.kompas.com/gadget",
+            "pagetype" : "baca-juga"
+        });
+        xhr_auto_baca_juga.send(data);
+    }
+</script>
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    var url = window.location.href;
+    var match = url.match(/[?&]refresh_attempt=(\d+)/);
+    var attempt = match ? parseInt(match[1], 10) + 1 : 1;
+
+    var logo = document.querySelectorAll('.logo-kompascom');
+    logo.forEach(item => {
+        const logo_url = new URL(item.href);
+        logo_url.searchParams.set('refresh_attempt', attempt);
+        item.setAttribute('href', logo_url.toString());
+    });
+  });
+</script>
+    <!-- (ads.peelad) -->
+    <!-- (ads.ambient) -->   
+    <!-- (ads.outbrain) -->
+    <!-- (ads.pickwords) -->
+
+    
+
+<iframe name="__tcfapiLocator" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcInactive" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcLoaded" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><meta name="google-site-verification" content="sqa3A_891cWCPwIzc--mRgne3OjYgQXD5RGdFWRX7M4"><script type="text/javascript" id="" charset="">(function(){var a=window._sf_async_config=window._sf_async_config||{};a.uid=66130;a.domain="kompas.com";a.flickerControl=!1;a.useCanonical=!0;a.useCanonicalDomain=!0;a.sections="Tekno,Tekno - Gadget";a.authors="";a=document.createElement("script");var b=document.getElementsByTagName("script")[0];a.type="text/javascript";a.async=!0;a.src="//static.chartbeat.com/js/chartbeat.js";b.parentNode.insertBefore(a,b)})();</script>
+<script id="" text="" charset="" type="text/javascript" src="//static.chartbeat.com/js/chartbeat_mab.js" nonce="IOvmxAasolBKwB_qzaJVMg"></script>
+<script id="" text="" charset="" type="text/javascript" src="https://unpkg.com/web-vitals@1.1.1/dist/web-vitals.umd.js" nonce="IOvmxAasolBKwB_qzaJVMg"></script><script type="text/javascript" id="bdc-ipaddress-push" charset="">var hBDC=new XMLHttpRequest,bdcApi="https://api.bigdatacloud.net/data/client-info",outputBDC={};hBDC.open("GET",bdcApi);hBDC.send();hBDC.onreadystatechange=function(){4==this.readyState&&200==this.status&&(outputBDC=JSON.parse(this.responseText),console.log(outputBDC.ipString),dataLayer.push({"bdc-ipaddress":outputBDC.ipString}),dataLayer.push({"bdc-isBehindProxy":outputBDC.isBehindProxy}),dataLayer.push({"bdc-userAgentRaw":outputBDC.userAgent}))};</script><div style="display: none; visibility: hidden;"><script type="text/javascript" src="https://4fcc269481bc.edge.sdk.awswaf.com/4fcc269481bc/9759018ffabd/challenge.js" defer="defer"></script></div>
+<script type="text/javascript" id="" charset="">function sendToGTM(a,b,c){dataLayer.push({event:"web-vitals",event_category:"Web Vitals",event_action:a.name,event_value:Math.round("CLS"===a.name?1E3*a.delta:a.delta),event_label:a.id})}webVitals.getCLS(sendToGTM);webVitals.getFID(sendToGTM);webVitals.getLCP(sendToGTM);</script><div style="display: none;"><iframe height="1" src="https://scripts.jixie.media/jx-load-cookie.html?accountid=9262bf2590d558736cac4fff7978fcb1"></iframe></div><iframe src="https://www.google.com/recaptcha/api2/aframe" width="0" height="0" style="display: none;"></iframe></body><ins id="gpt_unit_/31800665/KOMPAS.COM/tekno/vignette_0" data-google-query-id="CPeqkYXItJEDFRCIZgIdf8YMog" aria-hidden="true" data-vignette-loaded="true" style="display: none !important; width: 100vw !important; height: 100vh !important; inset: 0px auto auto 0px !important; clear: none !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; position: fixed !important; vertical-align: baseline !important; visibility: visible !important; z-index: 2147483647 !important; background: transparent !important;"><div id="google_ads_iframe_/31800665/KOMPAS.COM/tekno/vignette_0__container__" style="border: 0pt none !important; display: inline-block !important; width: 100vw !important; height: 100vh !important; inset: auto !important; clear: none !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; position: static !important; vertical-align: baseline !important; visibility: visible !important; z-index: auto !important;"><iframe frameborder="0" src="https://55b782c5b1bbb645651e78ee7ca156e2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html" id="google_ads_iframe_/31800665/KOMPAS.COM/tekno/vignette_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="" height="" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="private-state-token-redemption;attribution-reporting;autoplay" aria-label="Advertisement" tabindex="0" data-google-container-id="8" style="border: 0px !important; vertical-align: bottom !important; width: 100vw !important; height: 100vh !important; inset: 0px auto auto 0px !important; position: absolute !important; clear: none !important; display: inline !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; visibility: visible !important; z-index: auto !important;" data-load-complete="true"></iframe></div></ins><iframe sandbox="allow-scripts allow-same-origin" id="1397b6579a480cf58" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://js-sec.indexww.com/um/ixmatch.html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="140c9dc5fbd689e3" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://eus.rubiconproject.com/usync.html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="1414cf7c1fc9d7d1" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://kompascybermedia-d.openx.net/w/1.0/pd">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="142d42fe4a20870c8" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://eb2.3lift.com/sync?">
+    </iframe></html>
