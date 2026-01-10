@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>detik.com | Berita Jawa Timur</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; background-color: #f2f2f2; }
+        header { background-color: #e60013; padding: 15px 0; color: white; }
+        header .container { width: 90%; margin: auto; display: flex; align-items: center; justify-content: space-between; }
+        .container { width: 90%; margin: 30px auto; }
+        .news-card { background-color: white; display: flex; gap: 15px; margin-bottom: 20px; border-radius: 5px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+        .news-card img { width: 180px; height: 120px; object-fit: cover; }
+        .news-content { padding: 15px; }
+        .news-content h3 { margin: 0 0 10px 0; font-size: 18px; color: #222; }
+        .news-content h5 { margin: 0; color: #777; font-weight: normal; font-size: 14px; }
+        .badge { display: inline-block; background-color: #e60013; color: white; font-size: 11px; padding: 3px 8px; border-radius: 3px; margin-bottom: 8px; }
+        footer { background-color: #222; color: #aaa; text-align: center; padding: 15px 0; margin-top: 40px; }
+        @media (max-width: 768px) { .news-card { flex-direction: column; } .news-card img { width: 100%; height: 200px; } }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <h1>detik.com</h1>
+        <span>Berita Jawa Timur</span>
+    </div>
+</header>
+
+<div class="container">
+    {% for b in berita %}
+    <div class="news-card">
+        <img src="{{ b.gambar }}" alt="Gambar Berita">
+        <div class="news-content">
+            <div class="badge">JATIM</div>
+            <h3>{{ b.judul }}</h3>
+            <h5>{{ b.tanggal }}</h5>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<footer>
+    © 2026 detik.com • Data diambil melalui scraping
+</footer>
+
+</body>
+</html>
