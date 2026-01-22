@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Kategori Berita Jatim</title>
+    <style>
+        body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; background: #f4f4f4; }
+        header { background: #222; color: white; padding: 20px; text-align: center; }
+        .container { width: 95%; margin: 20px auto; }
+        
+        table { width: 100%; border-collapse: collapse; background: white; }
+        th { background: #444; color: white; padding: 15px; text-align: left; }
+        
+        /* WARNA FULL BARIS */
+        .bg-hijau { background-color: #28a745 !important; color: white !important; }
+        .bg-merah { background-color: #dc3545 !important; color: white !important; }
+
+        .news-img { 
+            width: 110px; height: 70px; object-fit: cover; 
+            border-radius: 4px; border: 2px solid white; 
+        }
+        
+        td { padding: 15px; border-bottom: 1px solid rgba(255,255,255,0.1); }
+        strong { font-size: 16px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Filter Berita Jatim</h1>
+    <p>Hijau: Berita Umum | Merah: Berita Alam & Lingkungan</p>
+</header>
+
+<div class="container">
+    <table>
+        <thead>
+            <tr>
+                <th>No</th>
+                <th>Gambar</th>
+                <th>Judul Berita</th>
+                <th>Waktu</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for b in berita %}
+            <tr class="{{ 'bg-hijau' if b.warna == 'hijau' else 'bg-merah' }}">
+                <td>{{ loop.index }}</td>
+                <td><img src="{{ b.gambar }}" class="news-img"></td>
+                <td><strong>{{ b.judul }}</strong></td>
+                <td>{{ b.tanggal }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+</body>
+</html>
